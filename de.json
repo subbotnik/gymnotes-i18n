@@ -452,5 +452,16 @@
   "max": "max",
   "go.back": "Zurück",
   "change": "Ändern",
-  "sec": "Sek"
+  "sec": "Sek",
+  "3months": "3 Monate",
+  "also.called": "Auch bekannt als",
+  "alternative.exercises": "Alternative Übungen",
+  "coming.soon": "Demnächst",
+  "howTo": "Anleitung",
+  "records": "Rekorde",
+  "social.proof": "Schließe dich 500+ Athleten an, die bereits mit GymNotes Pro trainieren",
+  "soft.paywall.description": "Du machst tolle Fortschritte! Schalte Pro frei für unbegrenzte Programme, Übungen und detaillierte Statistiken.",
+  "start.free.trial": "Kostenlose Testversion starten",
+  "repeat.workouts.restriction.14.days": "Kostenlose Konten können nur Workouts der letzten 14 Tage wiederholen",
+  "free.limit.max": "{{ limit }} Max"
 }

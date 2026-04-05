@@ -452,5 +452,16 @@
   "max": "max",
   "go.back": "Indietro",
   "change": "Cambia",
-  "sec": "sec"
+  "sec": "sec",
+  "3months": "3 Mesi",
+  "also.called": "Conosciuto anche come",
+  "alternative.exercises": "Esercizi alternativi",
+  "coming.soon": "In arrivo",
+  "howTo": "Come fare",
+  "records": "Record",
+  "social.proof": "Unisciti a oltre 500 atleti che si allenano già con GymNotes Pro",
+  "soft.paywall.description": "Stai facendo grandi progressi! Sblocca Pro per programmi, esercizi e statistiche dettagliate illimitati.",
+  "start.free.trial": "Inizia la prova gratuita",
+  "repeat.workouts.restriction.14.days": "Gli account gratuiti possono ripetere solo gli allenamenti degli ultimi 14 giorni",
+  "free.limit.max": "{{ limit }} Max"
 }

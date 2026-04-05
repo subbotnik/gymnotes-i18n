@@ -452,5 +452,16 @@
   "max": "maks",
   "go.back": "Takaisin",
   "change": "Vaihda",
-  "sec": "sek"
+  "sec": "sek",
+  "3months": "3 Kuukautta",
+  "also.called": "Tunnetaan myös nimellä",
+  "alternative.exercises": "Vaihtoehtoiset harjoitukset",
+  "coming.soon": "Tulossa pian",
+  "howTo": "Ohje",
+  "records": "Ennätykset",
+  "social.proof": "Liity yli 500 urheilijan joukkoon, jotka jo harjoittelevat GymNotes Prolla",
+  "soft.paywall.description": "Edistyt hienosti! Avaa Pro rajattomille ohjelmille, harjoituksille ja yksityiskohtaisille tilastoille.",
+  "start.free.trial": "Aloita ilmainen kokeilu",
+  "repeat.workouts.restriction.14.days": "Ilmaiset tilit voivat toistaa vain viimeisten 14 päivän treenejä",
+  "free.limit.max": "{{ limit }} Maks"
 }
