@@ -240,7 +240,7 @@
   "next.payment.on": "Наступний платіж {{date}}",
   "next.set.notification.body": "Поверніться і продовжуйте тренування 💪",
   "next.set.notification.title": "⏱️ Відпочинок закінчився!",
-  "notification.daily.reminder.title": "Час на тренування",
+  "notification.daily.reminder.title": "Час для тренування",
   "notification.daily.reminder.body": "Коротка сесія сьогодні підтримає твій ритм.",
   "notification.weekly.summary.title": "Підсумок тижня",
   "notification.weekly.summary.body": "Відкрий статистику і переглянь прогрес за тиждень.",
