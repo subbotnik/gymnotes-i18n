@@ -503,7 +503,7 @@
   "voice.card.badge": "NEW · AI",
   "voice.card.headline": "Just say what you did.",
   "voice.card.description": "Log your whole workout by voice. We'll find the exercises and fill in sets, reps, and weight.",
-  "voice.card.cta": "Hold to talk",
+  "voice.card.cta": "Press to talk",
   "voice.recording": "Recording...",
   "voice.processing": "Processing...",
   "voice.processing.hint": "This may take a few seconds",
