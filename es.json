@@ -516,6 +516,7 @@
   "voice.preview.footnote": "¿Algo mal? Edita el texto arriba y volveremos a analizar, o continúa para ajustar las series por ejercicio.",
   "voice.match": "coincidencia",
   "voice.add.to.workout": "Añadir al entrenamiento",
+  "voice.add.to.routine": "Añadir a la rutina",
   "voice.add.exercises": "Añadir por voz",
   "voice.idle.title.append": "Añade unas series",
   "voice.idle.subtitle.append": "Graba uno o dos ejercicios y los añadiremos a tu entrenamiento actual.",

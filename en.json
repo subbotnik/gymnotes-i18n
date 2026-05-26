@@ -520,6 +520,7 @@
   "voice.transcript": "What we heard",
   "voice.start.workout": "Start Workout",
   "voice.add.to.workout": "Add to Workout",
+  "voice.add.to.routine": "Add to Routine",
   "voice.add.exercises": "Add by Voice",
   "voice.discard.confirm": "Are you sure you want to discard this voice workout?",
   "voice.no.exercises": "No exercises found in your recording",

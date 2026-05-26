@@ -516,6 +516,7 @@
   "voice.preview.footnote": "Näyttääkö väärältä? Muokkaa yllä olevaa tekstiä ja analysoimme uudelleen, tai jatka säätääksesi sarjoja liikkeittäin.",
   "voice.match": "osuma",
   "voice.add.to.workout": "Lisää treeniin",
+  "voice.add.to.routine": "Lisää rutiiniin",
   "voice.add.exercises": "Lisää äänellä",
   "voice.idle.title.append": "Lisää muutama sarja",
   "voice.idle.subtitle.append": "Äänitä yksi tai kaksi liikettä, niin lisäämme ne nykyiseen treeniisi.",
