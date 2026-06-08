@@ -472,6 +472,8 @@
   "show.exercises.for.this.machine": "Näytä harjoitukset tälle laitteelle?",
   "machine.identified": "Laite tunnistettu!",
   "voice.workout": "Äänitreeni",
+  "voice.home.banner.title": "Kirjaa ja luo äänellä",
+  "voice.home.banner.subtitle": "Sano liikkeet, sarjat, toistot ja painot. Gymnotes muuttaa ne treeniksi tai rutiiniksi.",
   "voice.recording": "Nauhoitetaan...",
   "voice.processing": "Käsitellään...",
   "voice.processing.hint": "Tämä voi kestää muutaman sekunnin",

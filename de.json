@@ -472,6 +472,8 @@
   "show.exercises.for.this.machine": "Übungen für dieses Gerät anzeigen?",
   "machine.identified": "Gerät erkannt!",
   "voice.workout": "Sprach-Workout",
+  "voice.home.banner.title": "Per Stimme loggen und erstellen",
+  "voice.home.banner.subtitle": "Sag Übungen, Sätze, Wiederholungen und Gewicht. Gymnotes macht daraus ein Workout oder eine Routine.",
   "voice.recording": "Aufnahme...",
   "voice.processing": "Verarbeitung...",
   "voice.processing.hint": "Das kann einige Sekunden dauern",

@@ -472,6 +472,8 @@
   "show.exercises.for.this.machine": "გამოვაჩინოთ ვარჯიშები ამ მანქანისთვის?",
   "machine.identified": "მანქანა ამოცნობილია!",
   "voice.workout": "ხმოვანი ვარჯიში",
+  "voice.home.banner.title": "ჩაწერე და შექმენი ხმით",
+  "voice.home.banner.subtitle": "თქვი სავარჯიშოები, სეტები, გამეორებები და წონა. Gymnotes გადააქცევს ამას ვარჯიშად ან რუტინად.",
   "voice.recording": "ჩაწერა...",
   "voice.processing": "დამუშავება...",
   "voice.processing.hint": "ეს შეიძლება რამდენიმე წამი გასტანოს",

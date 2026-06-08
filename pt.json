@@ -472,6 +472,8 @@
   "show.exercises.for.this.machine": "Mostrar exercícios para esta máquina?",
   "machine.identified": "Máquina identificada!",
   "voice.workout": "Treino por voz",
+  "voice.home.banner.title": "Registe e crie por voz",
+  "voice.home.banner.subtitle": "Diga exercícios, séries, repetições e peso. O Gymnotes transforma em treino ou rotina.",
   "voice.recording": "Gravando...",
   "voice.processing": "Processando...",
   "voice.processing.hint": "Isso pode levar alguns segundos",
