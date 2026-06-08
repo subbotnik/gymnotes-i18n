@@ -501,7 +501,7 @@
   "free.limit.max": "{{ limit }} Макс",
   "voice.workout": "Голосове тренування",
   "voice.home.banner.title": "Логуй і створюй голосом",
-  "voice.home.banner.subtitle": "Скажи вправи, підходи, повтори й вагу. Gymnotes збере тренування або програму.",
+  "voice.home.banner.subtitle": "Скажи, що зробив. Gymnotes зробить з цього тренування або програму.",
   "voice.card.badge": "НОВЕ · AI",
   "voice.card.headline": "Просто скажи, що ти зробив.",
   "voice.card.description": "Логуй тренування голосом. Ми знайдемо вправи та заповнимо підходи, повтори і вагу.",
