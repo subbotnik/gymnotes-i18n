@@ -134,6 +134,8 @@
   "explore": "Entdecken",
   "explore.benefits": "Vorteile erkunden",
   "explore.routines": "Routinen entdecken",
+  "explore.routines.empty": "Derzeit keine Programme verfügbar.",
+  "common.retry": "Erneut versuchen",
   "failure.set": "Fähigkeitssatz",
   "faqQuestion1": "Was beinhaltet GymNotes PRO?",
   "faqQuestion2": "Kann ich mein Abonnement jederzeit kündigen?",

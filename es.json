@@ -134,6 +134,8 @@
   "explore": "Explorar",
   "explore.benefits": "Explorar Beneficios",
   "explore.routines": "Explorar rutinas",
+  "explore.routines.empty": "No hay rutinas para mostrar ahora mismo.",
+  "common.retry": "Reintentar",
   "failure.set": "Serie a Fallo",
   "faqQuestion1": "¿Qué incluye GymNotes PRO?",
   "faqQuestion2": "¿Puedo cancelar mi suscripción en cualquier momento?",

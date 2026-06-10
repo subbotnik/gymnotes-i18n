@@ -153,6 +153,8 @@
   "explore": "Ознайомитись",
   "explore.benefits": "Ознайомитись з перевагами",
   "explore.routines": "Ознайомитись з програмами",
+  "explore.routines.empty": "Наразі немає програм для показу.",
+  "common.retry": "Спробувати ще раз",
   "failure.set": "Сет до відмови",
   "faqQuestion1": "Що включає GymNotes PRO?",
   "faqQuestion2": "Чи можу я скасувати підписку в будь-який час?",

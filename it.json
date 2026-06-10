@@ -134,6 +134,8 @@
   "explore": "Esplora",
   "explore.benefits": "Esplora i Vantaggi",
   "explore.routines": "Esplora routine",
+  "explore.routines.empty": "Nessun programma da mostrare al momento.",
+  "common.retry": "Riprova",
   "failure.set": "Serie a Cedimento",
   "faqQuestion1": "Cosa include GymNotes PRO?",
   "faqQuestion2": "Posso annullare il mio abbonamento in qualsiasi momento?",

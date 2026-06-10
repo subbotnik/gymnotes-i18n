@@ -134,6 +134,8 @@
   "explore": "გაიგე მეტი",
   "explore.benefits": "შეისწავლე სარგებელი",
   "explore.routines": "რუტინების მონახვა",
+  "explore.routines.empty": "ამჟამად საჩვენებელი პროგრამები არ არის.",
+  "common.retry": "ხელახლა ცდა",
   "failure.set": "წარუმატებლობის სეტი",
   "faqQuestion1": "რა შედის GymNotes PRO-ში?",
   "faqQuestion2": "შემიძლია გამოწერის გაუქმება ნებისმიერ დროს?",

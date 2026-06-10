@@ -134,6 +134,8 @@
   "explore": "Selaa",
   "explore.benefits": "Tutustu etuihin",
   "explore.routines": "Selaa harjoituksia",
+  "explore.routines.empty": "Ei näytettäviä ohjelmia juuri nyt.",
+  "common.retry": "Yritä uudelleen",
   "failure.set": "Failure",
   "faqQuestion1": "Mitä GymNotes PRO sisältää?",
   "faqQuestion2": "Voinko peruuttaa tilauksen milloin tahansa?",
