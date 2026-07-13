@@ -586,5 +586,10 @@
   "max": "макс",
   "go.back": "Повернутися",
   "change": "Змінити",
-  "sec": "сек"
+  "sec": "сек",
+  "notification.unfinished.workout.title": "Тренування триває",
+  "notification.unfinished.workout.body": "Ти почав тренування. Заверши його, щоб зберегти підходи.",
+  "exercises.recent": "Нещодавні",
+  "exercises.popular": "Популярні",
+  "finish.short": "Завершити"
 }

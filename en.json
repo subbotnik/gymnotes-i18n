@@ -586,5 +586,10 @@
   "max": "max",
   "go.back": "Go Back",
   "change": "Change",
-  "sec": "sec"
+  "sec": "sec",
+  "notification.unfinished.workout.title": "Workout in progress",
+  "notification.unfinished.workout.body": "You started a workout. Finish it to save your sets.",
+  "exercises.recent": "Recent",
+  "exercises.popular": "Popular",
+  "finish.short": "Finish"
 }

@@ -586,5 +586,10 @@
   "voice.card.badge": "NOVO · AI",
   "voice.card.cta": "Pressione para falar",
   "voice.card.description": "Registre todo o treino por voz. Encontramos os exercícios e preenchemos séries, repetições e peso.",
-  "voice.card.headline": "Apenas diga o que você fez."
+  "voice.card.headline": "Apenas diga o que você fez.",
+  "notification.unfinished.workout.title": "Treino em andamento",
+  "notification.unfinished.workout.body": "Você começou um treino. Termine-o para salvar suas séries.",
+  "exercises.recent": "Recentes",
+  "exercises.popular": "Populares",
+  "finish.short": "Finalizar"
 }

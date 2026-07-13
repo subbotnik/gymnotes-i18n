@@ -586,5 +586,10 @@
   "voice.card.badge": "NEU · AI",
   "voice.card.cta": "Drücke zum Sprechen",
   "voice.card.description": "Protokolliere dein gesamtes Training per Sprache. Wir finden die Übungen und tragen Sätze, Wiederholungen und Gewicht ein.",
-  "voice.card.headline": "Sag einfach, was du gemacht hast."
+  "voice.card.headline": "Sag einfach, was du gemacht hast.",
+  "notification.unfinished.workout.title": "Training läuft",
+  "notification.unfinished.workout.body": "Du hast ein Training begonnen. Beende es, um deine Sätze zu speichern.",
+  "exercises.recent": "Zuletzt",
+  "exercises.popular": "Beliebt",
+  "finish.short": "Beenden"
 }

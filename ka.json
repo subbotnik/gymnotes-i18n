@@ -586,5 +586,10 @@
   "voice.card.badge": "ახალი · AI",
   "voice.card.cta": "დააჭირე სალაპარაკოდ",
   "voice.card.description": "ჩაიწერე ვარჯიში ხმით. ჩვენ ვიპოვით სავარჯიშოებს და შევავსებთ მიდგომებს, გამეორებებსა და წონას.",
-  "voice.card.headline": "უბრალოდ თქვი, რა გააკეთე."
+  "voice.card.headline": "უბრალოდ თქვი, რა გააკეთე.",
+  "notification.unfinished.workout.title": "ვარჯიში მიმდინარეობს",
+  "notification.unfinished.workout.body": "თქვენ დაიწყეთ ვარჯიში. დაასრულეთ, რომ სეტები შეინახოს.",
+  "exercises.recent": "ბოლო",
+  "exercises.popular": "პოპულარული",
+  "finish.short": "დასრულება"
 }

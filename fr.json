@@ -586,5 +586,10 @@
   "voice.card.badge": "NOUVEAU · AI",
   "voice.card.cta": "Appuie pour parler",
   "voice.card.description": "Enregistre tout ton entraînement à la voix. On trouve les exercices et remplit séries, reps et poids.",
-  "voice.card.headline": "Dis simplement ce que tu as fait."
+  "voice.card.headline": "Dis simplement ce que tu as fait.",
+  "notification.unfinished.workout.title": "Séance en cours",
+  "notification.unfinished.workout.body": "Vous avez commencé une séance. Terminez-la pour enregistrer vos séries.",
+  "exercises.recent": "Récents",
+  "exercises.popular": "Populaires",
+  "finish.short": "Terminer"
 }
