@@ -591,5 +591,6 @@
   "notification.unfinished.workout.body": "Você começou um treino. Termine-o para salvar suas séries.",
   "exercises.recent": "Recentes",
   "exercises.popular": "Populares",
-  "finish.short": "Finalizar"
+  "finish.short": "Finalizar",
+  "exercises.all": "Todos"
 }

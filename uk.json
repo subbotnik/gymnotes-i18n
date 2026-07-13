@@ -591,5 +591,6 @@
   "notification.unfinished.workout.body": "Ти почав тренування. Заверши його, щоб зберегти підходи.",
   "exercises.recent": "Нещодавні",
   "exercises.popular": "Популярні",
-  "finish.short": "Завершити"
+  "finish.short": "Завершити",
+  "exercises.all": "Всі"
 }

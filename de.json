@@ -591,5 +591,6 @@
   "notification.unfinished.workout.body": "Du hast ein Training begonnen. Beende es, um deine Sätze zu speichern.",
   "exercises.recent": "Zuletzt",
   "exercises.popular": "Beliebt",
-  "finish.short": "Beenden"
+  "finish.short": "Beenden",
+  "exercises.all": "Alle"
 }

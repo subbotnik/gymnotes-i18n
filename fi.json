@@ -591,5 +591,6 @@
   "notification.unfinished.workout.body": "Aloitit treenin. Päätä se tallentaaksesi sarjasi.",
   "exercises.recent": "Viimeisimmät",
   "exercises.popular": "Suositut",
-  "finish.short": "Lopeta"
+  "finish.short": "Lopeta",
+  "exercises.all": "Kaikki"
 }

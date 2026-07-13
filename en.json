@@ -591,5 +591,6 @@
   "notification.unfinished.workout.body": "You started a workout. Finish it to save your sets.",
   "exercises.recent": "Recent",
   "exercises.popular": "Popular",
-  "finish.short": "Finish"
+  "finish.short": "Finish",
+  "exercises.all": "All"
 }
