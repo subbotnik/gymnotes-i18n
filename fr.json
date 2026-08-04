@@ -592,5 +592,41 @@
   "exercises.recent": "Récents",
   "exercises.popular": "Populaires",
   "finish.short": "Terminer",
-  "exercises.all": "Tous"
+  "exercises.all": "Tous",
+  "coach": {
+    "title": "Coach",
+    "emptyHint": "Working with a trainer? They can send you an invite code. Enter it here and they'll be able to see your workouts and send you programs.",
+    "addAnotherHint": "Got a code from another coach? Enter it here.",
+    "codePlaceholder": "ABC123",
+    "submitCode": "Continue",
+    "linkedSince": "Your coach since {{date}}",
+    "contact": "Message {{handle}}",
+    "visibility": {
+      "title": "What your coach can see",
+      "body": "Workouts, exercises and measurements you record from the moment you linked — nothing from before."
+    },
+    "confirm": {
+      "subtitle": "wants to be your coach",
+      "willSeeTitle": "They will be able to see:",
+      "willSeeWorkouts": "workouts you record from now on",
+      "willSeeExercises": "your exercises and working weights",
+      "willSeeMeasurements": "your body measurements",
+      "historyHidden": "Everything from before this moment stays hidden.",
+      "accept": "Link with coach"
+    },
+    "unlink": {
+      "action": "Disconnect coach",
+      "title": "Disconnect coach?",
+      "message": "{{name}} will stop seeing your new workouts and measurements. What they've already seen stays with them. Programs they sent you remain in your library.",
+      "confirm": "Disconnect"
+    },
+    "error": {
+      "notFound": "Code not found. Check that you typed it correctly.",
+      "alreadyUsed": "This code has already been used. Ask your coach for a new one.",
+      "expired": "This code has expired. Ask your coach for a new one.",
+      "coachInactive": "This coach's account is inactive.",
+      "alreadyLinked": "You're already linked with this coach.",
+      "generic": "Something went wrong. Please try again."
+    }
+  }
 }
