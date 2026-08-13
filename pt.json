@@ -594,59 +594,59 @@
   "finish.short": "Finalizar",
   "exercises.all": "Todos",
   "coach": {
-    "title": "Coach",
-    "emptyHint": "Working with a trainer? They can send you an invite code. Enter it here and they'll be able to see your workouts and send you programs.",
-    "addAnotherHint": "Got a code from another coach? Enter it here.",
+    "title": "Treinador",
+    "emptyHint": "Treinas com um treinador? Ele pode enviar-te um código de convite. Introduz o código aqui e ele poderá ver os teus treinos e enviar-te programas.",
+    "addAnotherHint": "Tens um código de outro treinador? Introduz aqui.",
     "codePlaceholder": "ABC123",
-    "submitCode": "Continue",
-    "linkedSince": "Your coach since {{date}}",
-    "contact": "Message {{handle}}",
+    "submitCode": "Continuar",
+    "linkedSince": "O teu treinador desde {{date}}",
+    "contact": "Escrever a {{handle}}",
     "visibility": {
-      "title": "What your coach can see",
-      "body": "Workouts, exercises and measurements you record from the moment you linked — nothing from before."
+      "title": "O que o teu treinador vê",
+      "body": "Treinos, exercícios e medições que registas a partir do momento da ligação — nada do que veio antes."
     },
     "confirm": {
-      "subtitle": "wants to be your coach",
-      "willSeeTitle": "They will be able to see:",
-      "willSeeWorkouts": "workouts you record from now on",
-      "willSeeExercises": "your exercises and working weights",
-      "willSeeMeasurements": "your body measurements",
-      "historyHidden": "Everything from before this moment stays hidden.",
-      "accept": "Link with coach"
+      "subtitle": "quer ser o teu treinador",
+      "willSeeTitle": "Vai poder ver:",
+      "willSeeWorkouts": "os treinos que registares a partir de agora",
+      "willSeeExercises": "os teus exercícios e cargas de trabalho",
+      "willSeeMeasurements": "as tuas medições corporais",
+      "historyHidden": "Tudo o que aconteceu antes deste momento fica escondido.",
+      "accept": "Ligar ao treinador"
     },
     "unlink": {
-      "action": "Disconnect coach",
-      "title": "Disconnect coach?",
-      "message": "{{name}} will stop seeing your new workouts and measurements. What they've already seen stays with them. Programs they sent you remain in your library.",
-      "confirm": "Disconnect"
+      "action": "Desligar treinador",
+      "title": "Desligar treinador?",
+      "message": "{{name}} deixa de ver os teus novos treinos e medições. O que já viu fica com ele. Os programas que te enviou continuam na tua biblioteca.",
+      "confirm": "Desligar"
     },
     "error": {
-      "notFound": "Code not found. Check that you typed it correctly.",
-      "alreadyUsed": "This code has already been used. Ask your coach for a new one.",
-      "expired": "This code has expired. Ask your coach for a new one.",
-      "coachInactive": "This coach's account is inactive.",
-      "alreadyLinked": "You're already linked with this coach.",
-      "generic": "Something went wrong. Please try again."
+      "notFound": "Código não encontrado. Verifica se o escreveste corretamente.",
+      "alreadyUsed": "Este código já foi usado. Pede um novo ao teu treinador.",
+      "expired": "Este código expirou. Pede um novo ao teu treinador.",
+      "coachInactive": "A conta deste treinador está inativa.",
+      "alreadyLinked": "Já estás ligado a este treinador.",
+      "generic": "Algo correu mal. Tenta novamente."
     },
-    "planFrom": "Plan from {{name}}",
-    "planFromUnknown": "Plan from your coach",
-    "myRoutines": "My routines",
+    "planFrom": "Plano de {{name}}",
+    "planFromUnknown": "Plano do teu treinador",
+    "myRoutines": "As minhas rotinas",
     "report": {
-      "action": "Report this coach",
-      "title": "Report coach",
-      "subtitle": "Tell us what's wrong with {{name}}. We read every report.",
+      "action": "Denunciar treinador",
+      "title": "Denunciar treinador",
+      "subtitle": "Diz-nos o que se passa com {{name}}. Lemos todas as denúncias.",
       "reason": {
-        "inappropriate": "Inappropriate or abusive behaviour",
-        "spam": "Spam or unwanted messages",
-        "not_my_coach": "I don't know this person",
-        "other": "Something else"
+        "inappropriate": "Comportamento inadequado ou abusivo",
+        "spam": "Spam ou mensagens indesejadas",
+        "not_my_coach": "Não conheço esta pessoa",
+        "other": "Outra coisa"
       },
-      "detailsPlaceholder": "Anything you'd like to add (optional)",
-      "disclaimer": "Your coach isn't told about this. Reporting doesn't disconnect them — you can do that separately.",
-      "submit": "Send report",
-      "sentTitle": "Report sent",
-      "sentBody": "Thanks — we'll look into it. If you'd rather not wait, you can disconnect this coach now."
+      "detailsPlaceholder": "O que quiseres acrescentar (opcional)",
+      "disclaimer": "O teu treinador não é informado disto. Denunciar não o desliga — isso é uma ação separada.",
+      "submit": "Enviar denúncia",
+      "sentTitle": "Denúncia enviada",
+      "sentBody": "Obrigado — vamos analisar. Se preferires não esperar, podes desligar este treinador agora."
     }
   },
-  "close": "Close"
+  "close": "Fechar"
 }

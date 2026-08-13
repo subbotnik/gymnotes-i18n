@@ -594,59 +594,59 @@
   "finish.short": "Lopeta",
   "exercises.all": "Kaikki",
   "coach": {
-    "title": "Coach",
-    "emptyHint": "Working with a trainer? They can send you an invite code. Enter it here and they'll be able to see your workouts and send you programs.",
-    "addAnotherHint": "Got a code from another coach? Enter it here.",
+    "title": "Valmentaja",
+    "emptyHint": "Treenaatko valmentajan kanssa? Hän voi lähettää sinulle kutsukoodin. Syötä se tähän, niin hän näkee treenisi ja voi lähettää sinulle ohjelmia.",
+    "addAnotherHint": "Onko sinulla koodi toiselta valmentajalta? Syötä se tähän.",
     "codePlaceholder": "ABC123",
-    "submitCode": "Continue",
-    "linkedSince": "Your coach since {{date}}",
-    "contact": "Message {{handle}}",
+    "submitCode": "Jatka",
+    "linkedSince": "Valmentajasi {{date}} lähtien",
+    "contact": "Lähetä viesti: {{handle}}",
     "visibility": {
-      "title": "What your coach can see",
-      "body": "Workouts, exercises and measurements you record from the moment you linked — nothing from before."
+      "title": "Mitä valmentajasi näkee",
+      "body": "Treenit, liikkeet ja mittaukset, jotka kirjaat yhdistämisen jälkeen — ei mitään sitä ennen."
     },
     "confirm": {
-      "subtitle": "wants to be your coach",
-      "willSeeTitle": "They will be able to see:",
-      "willSeeWorkouts": "workouts you record from now on",
-      "willSeeExercises": "your exercises and working weights",
-      "willSeeMeasurements": "your body measurements",
-      "historyHidden": "Everything from before this moment stays hidden.",
-      "accept": "Link with coach"
+      "subtitle": "haluaa valmentajaksesi",
+      "willSeeTitle": "Hän näkee:",
+      "willSeeWorkouts": "treenit, jotka kirjaat tästä eteenpäin",
+      "willSeeExercises": "liikkeesi ja työpainosi",
+      "willSeeMeasurements": "kehonmittauksesi",
+      "historyHidden": "Kaikki ennen tätä hetkeä pysyy piilossa.",
+      "accept": "Yhdistä valmentajaan"
     },
     "unlink": {
-      "action": "Disconnect coach",
-      "title": "Disconnect coach?",
-      "message": "{{name}} will stop seeing your new workouts and measurements. What they've already seen stays with them. Programs they sent you remain in your library.",
-      "confirm": "Disconnect"
+      "action": "Katkaise yhteys valmentajaan",
+      "title": "Katkaistaanko yhteys valmentajaan?",
+      "message": "{{name}} ei enää näe uusia treenejäsi ja mittauksiasi. Se, minkä hän on jo nähnyt, jää hänelle. Hänen lähettämänsä ohjelmat säilyvät kirjastossasi.",
+      "confirm": "Katkaise"
     },
     "error": {
-      "notFound": "Code not found. Check that you typed it correctly.",
-      "alreadyUsed": "This code has already been used. Ask your coach for a new one.",
-      "expired": "This code has expired. Ask your coach for a new one.",
-      "coachInactive": "This coach's account is inactive.",
-      "alreadyLinked": "You're already linked with this coach.",
-      "generic": "Something went wrong. Please try again."
+      "notFound": "Koodia ei löytynyt. Tarkista, että kirjoitit sen oikein.",
+      "alreadyUsed": "Tämä koodi on jo käytetty. Pyydä valmentajaltasi uusi.",
+      "expired": "Tämä koodi on vanhentunut. Pyydä valmentajaltasi uusi.",
+      "coachInactive": "Tämän valmentajan tili ei ole aktiivinen.",
+      "alreadyLinked": "Olet jo yhdistetty tähän valmentajaan.",
+      "generic": "Jokin meni pieleen. Yritä uudelleen."
     },
-    "planFrom": "Plan from {{name}}",
-    "planFromUnknown": "Plan from your coach",
-    "myRoutines": "My routines",
+    "planFrom": "Ohjelma valmentajalta {{name}}",
+    "planFromUnknown": "Ohjelma valmentajaltasi",
+    "myRoutines": "Omat ohjelmat",
     "report": {
-      "action": "Report this coach",
-      "title": "Report coach",
-      "subtitle": "Tell us what's wrong with {{name}}. We read every report.",
+      "action": "Ilmoita valmentajasta",
+      "title": "Ilmoita valmentajasta",
+      "subtitle": "Kerro, mikä valmentajassa {{name}} on vialla. Luemme jokaisen ilmoituksen.",
       "reason": {
-        "inappropriate": "Inappropriate or abusive behaviour",
-        "spam": "Spam or unwanted messages",
-        "not_my_coach": "I don't know this person",
-        "other": "Something else"
+        "inappropriate": "Epäasiallinen tai loukkaava käytös",
+        "spam": "Roskaposti tai ei-toivotut viestit",
+        "not_my_coach": "En tunne tätä henkilöä",
+        "other": "Jotain muuta"
       },
-      "detailsPlaceholder": "Anything you'd like to add (optional)",
-      "disclaimer": "Your coach isn't told about this. Reporting doesn't disconnect them — you can do that separately.",
-      "submit": "Send report",
-      "sentTitle": "Report sent",
-      "sentBody": "Thanks — we'll look into it. If you'd rather not wait, you can disconnect this coach now."
+      "detailsPlaceholder": "Mitä haluat lisätä (valinnainen)",
+      "disclaimer": "Valmentajallesi ei kerrota tästä. Ilmoitus ei katkaise yhteyttä — se on erillinen toiminto.",
+      "submit": "Lähetä ilmoitus",
+      "sentTitle": "Ilmoitus lähetetty",
+      "sentBody": "Kiitos — selvitämme asian. Jos et halua odottaa, voit katkaista yhteyden valmentajaan nyt."
     }
   },
-  "close": "Close"
+  "close": "Sulje"
 }

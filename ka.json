@@ -594,59 +594,59 @@
   "finish.short": "დასრულება",
   "exercises.all": "ყველა",
   "coach": {
-    "title": "Coach",
-    "emptyHint": "Working with a trainer? They can send you an invite code. Enter it here and they'll be able to see your workouts and send you programs.",
-    "addAnotherHint": "Got a code from another coach? Enter it here.",
+    "title": "მწვრთნელი",
+    "emptyHint": "მწვრთნელთან ვარჯიშობ? მას შეუძლია გამოგიგზავნოს მოსაწვევი კოდი. შეიყვანე აქ და ის დაინახავს შენს ვარჯიშებს და გამოგიგზავნის პროგრამებს.",
+    "addAnotherHint": "გაქვს კოდი სხვა მწვრთნელისგან? შეიყვანე აქ.",
     "codePlaceholder": "ABC123",
-    "submitCode": "Continue",
-    "linkedSince": "Your coach since {{date}}",
-    "contact": "Message {{handle}}",
+    "submitCode": "გაგრძელება",
+    "linkedSince": "შენი მწვრთნელი {{date}}-დან",
+    "contact": "მიწერე {{handle}}",
     "visibility": {
-      "title": "What your coach can see",
-      "body": "Workouts, exercises and measurements you record from the moment you linked — nothing from before."
+      "title": "რას ხედავს შენი მწვრთნელი",
+      "body": "ვარჯიშები, სავარჯიშოები და გაზომვები, რომლებსაც დაკავშირების მომენტიდან ჩაწერ — არაფერი მანამდე."
     },
     "confirm": {
-      "subtitle": "wants to be your coach",
-      "willSeeTitle": "They will be able to see:",
-      "willSeeWorkouts": "workouts you record from now on",
-      "willSeeExercises": "your exercises and working weights",
-      "willSeeMeasurements": "your body measurements",
-      "historyHidden": "Everything from before this moment stays hidden.",
-      "accept": "Link with coach"
+      "subtitle": "სურს გახდეს შენი მწვრთნელი",
+      "willSeeTitle": "ის დაინახავს:",
+      "willSeeWorkouts": "ვარჯიშებს, რომლებსაც ამიერიდან ჩაწერ",
+      "willSeeExercises": "შენს სავარჯიშოებსა და სამუშაო წონებს",
+      "willSeeMeasurements": "შენი სხეულის გაზომვებს",
+      "historyHidden": "ყველაფერი, რაც ამ მომენტამდე იყო, დამალული რჩება.",
+      "accept": "მწვრთნელთან დაკავშირება"
     },
     "unlink": {
-      "action": "Disconnect coach",
-      "title": "Disconnect coach?",
-      "message": "{{name}} will stop seeing your new workouts and measurements. What they've already seen stays with them. Programs they sent you remain in your library.",
-      "confirm": "Disconnect"
+      "action": "მწვრთნელის გათიშვა",
+      "title": "გავთიშოთ მწვრთნელი?",
+      "message": "{{name}} ვეღარ დაინახავს შენს ახალ ვარჯიშებსა და გაზომვებს. ის, რაც უკვე ნახა, მასთან რჩება. პროგრამები, რომლებიც გამოგიგზავნა, შენს ბიბლიოთეკაში რჩება.",
+      "confirm": "გათიშვა"
     },
     "error": {
-      "notFound": "Code not found. Check that you typed it correctly.",
-      "alreadyUsed": "This code has already been used. Ask your coach for a new one.",
-      "expired": "This code has expired. Ask your coach for a new one.",
-      "coachInactive": "This coach's account is inactive.",
-      "alreadyLinked": "You're already linked with this coach.",
-      "generic": "Something went wrong. Please try again."
+      "notFound": "კოდი ვერ მოიძებნა. შეამოწმე, სწორად ჩაწერე თუ არა.",
+      "alreadyUsed": "ეს კოდი უკვე გამოყენებულია. სთხოვე მწვრთნელს ახალი.",
+      "expired": "კოდს ვადა გაუვიდა. სთხოვე მწვრთნელს ახალი.",
+      "coachInactive": "ამ მწვრთნელის ანგარიში არააქტიურია.",
+      "alreadyLinked": "შენ უკვე დაკავშირებული ხარ ამ მწვრთნელთან.",
+      "generic": "რაღაც შეცდომა მოხდა. სცადე კიდევ ერთხელ."
     },
-    "planFrom": "Plan from {{name}}",
-    "planFromUnknown": "Plan from your coach",
-    "myRoutines": "My routines",
+    "planFrom": "პროგრამა {{name}}-გან",
+    "planFromUnknown": "პროგრამა შენი მწვრთნელისგან",
+    "myRoutines": "ჩემი პროგრამები",
     "report": {
-      "action": "Report this coach",
-      "title": "Report coach",
-      "subtitle": "Tell us what's wrong with {{name}}. We read every report.",
+      "action": "მწვრთნელზე საჩივარი",
+      "title": "საჩივარი მწვრთნელზე",
+      "subtitle": "მოგვიყევი, რა არ არის რიგზე {{name}}-თან. ჩვენ ვკითხულობთ ყველა საჩივარს.",
       "reason": {
-        "inappropriate": "Inappropriate or abusive behaviour",
-        "spam": "Spam or unwanted messages",
-        "not_my_coach": "I don't know this person",
-        "other": "Something else"
+        "inappropriate": "შეუფერებელი ან შეურაცხმყოფელი ქცევა",
+        "spam": "სპამი ან არასასურველი შეტყობინებები",
+        "not_my_coach": "არ ვიცნობ ამ ადამიანს",
+        "other": "სხვა რამ"
       },
-      "detailsPlaceholder": "Anything you'd like to add (optional)",
-      "disclaimer": "Your coach isn't told about this. Reporting doesn't disconnect them — you can do that separately.",
-      "submit": "Send report",
-      "sentTitle": "Report sent",
-      "sentBody": "Thanks — we'll look into it. If you'd rather not wait, you can disconnect this coach now."
+      "detailsPlaceholder": "რისი დამატებაც გინდა (არასავალდებულო)",
+      "disclaimer": "შენი მწვრთნელი ამის შესახებ ვერ შეიტყობს. საჩივარი მას არ თიშავს — ეს ცალკე მოქმედებაა.",
+      "submit": "საჩივრის გაგზავნა",
+      "sentTitle": "საჩივარი გაგზავნილია",
+      "sentBody": "მადლობა — გამოვიკვლევთ. თუ ლოდინი არ გინდა, ახლავე შეგიძლია მწვრთნელის გათიშვა."
     }
   },
-  "close": "Close"
+  "close": "დახურვა"
 }
