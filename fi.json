@@ -627,6 +627,9 @@
       "coachInactive": "This coach's account is inactive.",
       "alreadyLinked": "You're already linked with this coach.",
       "generic": "Something went wrong. Please try again."
-    }
+    },
+    "planFrom": "Plan from {{name}}",
+    "planFromUnknown": "Plan from your coach",
+    "myRoutines": "My routines"
   }
 }
