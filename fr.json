@@ -630,6 +630,23 @@
     },
     "planFrom": "Plan from {{name}}",
     "planFromUnknown": "Plan from your coach",
-    "myRoutines": "My routines"
-  }
+    "myRoutines": "My routines",
+    "report": {
+      "action": "Report this coach",
+      "title": "Report coach",
+      "subtitle": "Tell us what's wrong with {{name}}. We read every report.",
+      "reason": {
+        "inappropriate": "Inappropriate or abusive behaviour",
+        "spam": "Spam or unwanted messages",
+        "not_my_coach": "I don't know this person",
+        "other": "Something else"
+      },
+      "detailsPlaceholder": "Anything you'd like to add (optional)",
+      "disclaimer": "Your coach isn't told about this. Reporting doesn't disconnect them — you can do that separately.",
+      "submit": "Send report",
+      "sentTitle": "Report sent",
+      "sentBody": "Thanks — we'll look into it. If you'd rather not wait, you can disconnect this coach now."
+    }
+  },
+  "close": "Close"
 }
