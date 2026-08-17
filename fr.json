@@ -651,5 +651,19 @@
       "sentBody": "Merci, nous allons examiner cela. Si vous préférez ne pas attendre, vous pouvez déconnecter ce coach maintenant."
     }
   },
-  "close": "Fermer"
+  "close": "Fermer",
+  "today": "Aujourd’hui",
+  "training.hero.meta": "{{exercises}} exercices · de ton programme",
+  "training.hero.start": "Commencer « {{name}} »",
+  "training.hero.startEmpty": "Commencer une séance vide",
+  "training.quick.subtitle": "Note tes séries au fil de la séance — ou dicte-les à voix haute.",
+  "training.resume.title": "Reprendre — brouillon vocal",
+  "training.resume.meta": "{{exercises}} exercices · {{sets}} séries · enregistré {{time}}",
+  "training.week.title": "Ta semaine",
+  "training.week.summary": "{{days}} sur {{total}} jours",
+  "training.week.empty": "Ta semaine se remplit après ta première séance terminée.",
+  "training.quickstart.title": "Démarrage rapide",
+  "training.quickstart.empty": "Choisis un programme prêt à l’emploi dans Programmes — ou commence maintenant et note au fil de la séance.",
+  "training.quickstart.empty.cta": "Ouvrir Programmes",
+  "training.exercises.count": "{{exercises}} exercices"
 }

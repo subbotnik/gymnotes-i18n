@@ -651,5 +651,19 @@
       "sentBody": "Kiitos — selvitämme asian. Jos et halua odottaa, voit katkaista yhteyden valmentajaan nyt."
     }
   },
-  "close": "Sulje"
+  "close": "Sulje",
+  "today": "Tänään",
+  "training.hero.meta": "{{exercises}} liikettä · ohjelmastasi",
+  "training.hero.start": "Aloita ”{{name}}”",
+  "training.hero.startEmpty": "Aloita tyhjä treeni",
+  "training.quick.subtitle": "Kirjaa sarjat matkan varrella — tai sanele ne ääneen.",
+  "training.resume.title": "Jatka — puheluonnos",
+  "training.resume.meta": "{{exercises}} liikettä · {{sets}} sarjaa · tallennettu {{time}}",
+  "training.week.title": "Viikkosi",
+  "training.week.summary": "{{days}}/{{total}} päivää",
+  "training.week.empty": "Viikko täyttyy ensimmäisen valmiin treenin jälkeen.",
+  "training.quickstart.title": "Pikakäynnistys",
+  "training.quickstart.empty": "Valitse valmis ohjelma Ohjelmista — tai aloita heti ja kirjaa matkan varrella.",
+  "training.quickstart.empty.cta": "Avaa ohjelmat",
+  "training.exercises.count": "{{exercises}} liikettä"
 }

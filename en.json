@@ -651,5 +651,19 @@
       "sentBody": "Thanks — we'll look into it. If you'd rather not wait, you can disconnect this coach now."
     }
   },
-  "close": "Close"
+  "close": "Close",
+  "today": "Today",
+  "training.hero.meta": "{{exercises}} exercises · from your program",
+  "training.hero.start": "Start “{{name}}”",
+  "training.hero.startEmpty": "Start an empty workout",
+  "training.quick.subtitle": "Log your sets as you go — or just say them out loud.",
+  "training.resume.title": "Resume — voice draft",
+  "training.resume.meta": "{{exercises}} exercises · {{sets}} sets · saved {{time}}",
+  "training.week.title": "Your week",
+  "training.week.summary": "{{days}} of {{total}} days",
+  "training.week.empty": "Your week fills in after your first completed workout.",
+  "training.quickstart.title": "Quick start",
+  "training.quickstart.empty": "Pick a ready-made program in Programs — or just start now and log as you go.",
+  "training.quickstart.empty.cta": "Open Programs",
+  "training.exercises.count": "{{exercises}} exercises"
 }

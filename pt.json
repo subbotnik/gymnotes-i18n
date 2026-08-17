@@ -651,5 +651,19 @@
       "sentBody": "Obrigado — vamos analisar. Se preferires não esperar, podes desligar este treinador agora."
     }
   },
-  "close": "Fechar"
+  "close": "Fechar",
+  "today": "Hoje",
+  "training.hero.meta": "{{exercises}} exercícios · do teu programa",
+  "training.hero.start": "Começar «{{name}}»",
+  "training.hero.startEmpty": "Começar um treino vazio",
+  "training.quick.subtitle": "Registra as séries à medida que treinas — ou dita-as em voz alta.",
+  "training.resume.title": "Continuar — rascunho de voz",
+  "training.resume.meta": "{{exercises}} exercícios · {{sets}} séries · guardado {{time}}",
+  "training.week.title": "A tua semana",
+  "training.week.summary": "{{days}} de {{total}} dias",
+  "training.week.empty": "A tua semana enche-se depois do teu primeiro treino concluído.",
+  "training.quickstart.title": "Início rápido",
+  "training.quickstart.empty": "Escolhe um programa pronto em Programas — ou começa agora e registra à medida que treinas.",
+  "training.quickstart.empty.cta": "Abrir Programas",
+  "training.exercises.count": "{{exercises}} exercícios"
 }

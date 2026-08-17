@@ -651,5 +651,19 @@
       "sentBody": "Danke — wir schauen uns das an. Wenn du nicht warten willst, kannst du den Coach jetzt trennen."
     }
   },
-  "close": "Schließen"
+  "close": "Schließen",
+  "today": "Heute",
+  "training.hero.meta": "{{exercises}} Übungen · aus deinem Programm",
+  "training.hero.start": "„{{name}}“ starten",
+  "training.hero.startEmpty": "Leeres Workout starten",
+  "training.quick.subtitle": "Trage die Sätze unterwegs ein — oder sprich sie einfach ein.",
+  "training.resume.title": "Fortsetzen — Sprachentwurf",
+  "training.resume.meta": "{{exercises}} Übungen · {{sets}} Sätze · gespeichert {{time}}",
+  "training.week.title": "Deine Woche",
+  "training.week.summary": "{{days}} von {{total}} Tagen",
+  "training.week.empty": "Deine Woche füllt sich nach dem ersten abgeschlossenen Workout.",
+  "training.quickstart.title": "Schnellstart",
+  "training.quickstart.empty": "Wähle ein fertiges Programm unter Programme — oder starte einfach jetzt und trage unterwegs ein.",
+  "training.quickstart.empty.cta": "Programme öffnen",
+  "training.exercises.count": "{{exercises}} Übungen"
 }

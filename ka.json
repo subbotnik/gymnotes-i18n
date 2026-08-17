@@ -651,5 +651,19 @@
       "sentBody": "მადლობა — გამოვიკვლევთ. თუ ლოდინი არ გინდა, ახლავე შეგიძლია მწვრთნელის გათიშვა."
     }
   },
-  "close": "დახურვა"
+  "close": "დახურვა",
+  "today": "დღეს",
+  "training.hero.meta": "{{exercises}} სავარჯიშო · შენი პროგრამიდან",
+  "training.hero.start": "დაიწყე „{{name}}“",
+  "training.hero.startEmpty": "ცარიელი ვარჯიშის დაწყება",
+  "training.quick.subtitle": "ჩაწერე სეტები ვარჯიშის მსვლელობაში — ან თქვი ხმით.",
+  "training.resume.title": "გაგრძელება — ხმოვანი ჩანახატი",
+  "training.resume.meta": "{{exercises}} სავარჯიშო · {{sets}} სეტი · შენახულია {{time}}",
+  "training.week.title": "შენი კვირა",
+  "training.week.summary": "{{days}} დღე {{total}}-დან",
+  "training.week.empty": "კვირა შეივსება პირველი დასრულებული ვარჯიშის შემდეგ.",
+  "training.quickstart.title": "სწრაფი დაწყება",
+  "training.quickstart.empty": "აირჩიე მზა პროგრამა პროგრამებში — ან დაიწყე ახლა და ჩაწერე ვარჯიშის მსვლელობაში.",
+  "training.quickstart.empty.cta": "პროგრამების გახსნა",
+  "training.exercises.count": "{{exercises}} სავარჯიშო"
 }

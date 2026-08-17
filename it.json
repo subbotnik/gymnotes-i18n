@@ -651,5 +651,19 @@
       "sentBody": "Grazie, la esamineremo. Se preferisci non aspettare, puoi scollegare questo coach ora."
     }
   },
-  "close": "Chiudi"
+  "close": "Chiudi",
+  "today": "Oggi",
+  "training.hero.meta": "{{exercises}} esercizi · dal tuo programma",
+  "training.hero.start": "Inizia «{{name}}»",
+  "training.hero.startEmpty": "Inizia un allenamento vuoto",
+  "training.quick.subtitle": "Registra le serie mentre ti alleni — o dettale a voce.",
+  "training.resume.title": "Continua — bozza vocale",
+  "training.resume.meta": "{{exercises}} esercizi · {{sets}} serie · salvato {{time}}",
+  "training.week.title": "La tua settimana",
+  "training.week.summary": "{{days}} di {{total}} giorni",
+  "training.week.empty": "La tua settimana si riempie dopo il primo allenamento completato.",
+  "training.quickstart.title": "Avvio rapido",
+  "training.quickstart.empty": "Scegli un programma pronto in Programmi — o inizia subito e registra mentre ti alleni.",
+  "training.quickstart.empty.cta": "Apri Programmi",
+  "training.exercises.count": "{{exercises}} esercizi"
 }
