@@ -665,5 +665,19 @@
   "training.quickstart.title": "Avvio rapido",
   "training.quickstart.empty": "Scegli un programma pronto in Programmi — o inizia subito e registra mentre ti alleni.",
   "training.quickstart.empty.cta": "Apri Programmi",
-  "training.exercises.count": "{{exercises}} esercizi"
+  "training.exercises.count": "{{exercises}} esercizi",
+  "programs.coach.badge": "Dal tuo coach",
+  "programs.coach.by": "Programma di {{name}}",
+  "programs.coach.byUnknown": "Programma dal tuo coach",
+  "programs.coach.start": "Inizia il programma",
+  "programs.coach.switch": "cambia programma del coach",
+  "programs.own.title": "I miei programmi",
+  "programs.pinned": "Fissato",
+  "programs.empty.title": "Ancora nessun programma",
+  "programs.empty.subtitle": "Crea il tuo programma o parti da un modello pronto",
+  "programs.empty.cta": "Crea programma",
+  "programs.explore.title": "Esplora programmi e modelli pronti",
+  "programs.explore.cta": "Esplora",
+  "progress.stats.empty.title": "Le statistiche compariranno dopo il primo allenamento",
+  "progress.stats.empty.subtitle": "Volume, serie e focus muscolare sono calcolati dalle serie che registri"
 }

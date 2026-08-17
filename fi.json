@@ -665,5 +665,19 @@
   "training.quickstart.title": "Pikakäynnistys",
   "training.quickstart.empty": "Valitse valmis ohjelma Ohjelmista — tai aloita heti ja kirjaa matkan varrella.",
   "training.quickstart.empty.cta": "Avaa ohjelmat",
-  "training.exercises.count": "{{exercises}} liikettä"
+  "training.exercises.count": "{{exercises}} liikettä",
+  "programs.coach.badge": "Valmentajaltasi",
+  "programs.coach.by": "Ohjelma: {{name}}",
+  "programs.coach.byUnknown": "Ohjelma valmentajaltasi",
+  "programs.coach.start": "Aloita ohjelma",
+  "programs.coach.switch": "vaihda valmentajan ohjelmaa",
+  "programs.own.title": "Omat ohjelmat",
+  "programs.pinned": "Kiinnitetty",
+  "programs.empty.title": "Ei vielä ohjelmia",
+  "programs.empty.subtitle": "Luo oma ohjelma tai aloita valmiista pohjasta",
+  "programs.empty.cta": "Luo ohjelma",
+  "programs.explore.title": "Selaa valmiita ohjelmia ja pohjia",
+  "programs.explore.cta": "Selaa",
+  "progress.stats.empty.title": "Tilastot näkyvät ensimmäisen treenin jälkeen",
+  "progress.stats.empty.subtitle": "Volyymi, putki ja lihasfokus lasketaan kirjaamistasi sarjoista"
 }

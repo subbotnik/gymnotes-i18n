@@ -665,5 +665,19 @@
   "training.quickstart.title": "სწრაფი დაწყება",
   "training.quickstart.empty": "აირჩიე მზა პროგრამა პროგრამებში — ან დაიწყე ახლა და ჩაწერე ვარჯიშის მსვლელობაში.",
   "training.quickstart.empty.cta": "პროგრამების გახსნა",
-  "training.exercises.count": "{{exercises}} სავარჯიშო"
+  "training.exercises.count": "{{exercises}} სავარჯიშო",
+  "programs.coach.badge": "შენი მწვრთნელისგან",
+  "programs.coach.by": "{{name}}-ის პროგრამა",
+  "programs.coach.byUnknown": "პროგრამა შენი მწვრთნელისგან",
+  "programs.coach.start": "პროგრამის დაწყება",
+  "programs.coach.switch": "მწვრთნელის პროგრამის შეცვლა",
+  "programs.own.title": "ჩემი პროგრამები",
+  "programs.pinned": "დამაგრებული",
+  "programs.empty.title": "პროგრამები ჯერ არ არის",
+  "programs.empty.subtitle": "შექმენი საკუთარი პროგრამა ან დაიწყე მზა შაბლონით",
+  "programs.empty.cta": "პროგრამის შექმნა",
+  "programs.explore.title": "გაეცანი მზა პროგრამებსა და შაბლონებს",
+  "programs.explore.cta": "გაცნობა",
+  "progress.stats.empty.title": "სტატისტიკა გამოჩნდება პირველი ვარჯიშის შემდეგ",
+  "progress.stats.empty.subtitle": "მოცულობა, სერია და კუნთთა ფოკუსი გამოითვლება თქვენი ჩაწერილი სეტებიდან"
 }
