@@ -611,7 +611,14 @@
     "contact": "Lähetä viesti: {{handle}}",
     "visibility": {
       "title": "Mitä valmentajasi näkee",
-      "body": "Treenit, liikkeet ja mittaukset, jotka kirjaat yhdistämisen jälkeen — ei mitään sitä ennen."
+      "body": "Treenit, liikkeet ja mittaukset, jotka kirjaat yhdistämisen jälkeen — ei mitään sitä ennen.",
+      "titleMany": "Mitä valmentajasi näkevät",
+      "workouts": "Treenit, jotka kirjaat",
+      "measurements": "Kehon mitat",
+      "programs": "Ohjelmat, jotka hän on tehnyt sinulle",
+      "programsMany": "Ohjelmat, jotka he ovat tehneet sinulle",
+      "since": "Näkyy alkaen {{date}}",
+      "sinceCoach": "{{name}} — alkaen {{date}}"
     },
     "confirm": {
       "subtitle": "haluaa valmentajaksesi",
@@ -654,6 +661,16 @@
       "submit": "Lähetä ilmoitus",
       "sentTitle": "Ilmoitus lähetetty",
       "sentBody": "Kiitos — selvitämme asian. Jos et halua odottaa, voit katkaista yhteyden valmentajaan nyt."
+    },
+    "codeSheet": {
+      "title": "Kutsukoodi"
+    },
+    "empty": {
+      "title": "Treenaa valmentajan kanssa",
+      "subtitle": "Valmentaja laatii ohjelmasi, näkee kirjaamasi treenit ja mitat ja kertoo, mitä kannattaa muuttaa.",
+      "cta": "Syötä kutsukoodi",
+      "noCode": "Minulla ei ole koodia",
+      "noCodeHint": "Koodin antaa valmentaja — pyydä häneltä kutsu."
     }
   },
   "close": "Sulje",

@@ -622,7 +622,14 @@
     "contact": "Message {{handle}}",
     "visibility": {
       "title": "What your coach can see",
-      "body": "Workouts, exercises and measurements you record from the moment you linked — nothing from before."
+      "body": "Workouts, exercises and measurements you record from the moment you linked — nothing from before.",
+      "titleMany": "What your coaches can see",
+      "workouts": "Workouts you record",
+      "measurements": "Body measurements",
+      "programs": "Programs they built for you",
+      "programsMany": "Programs they built for you",
+      "since": "Visible from {{date}}",
+      "sinceCoach": "{{name}} — from {{date}}"
     },
     "confirm": {
       "subtitle": "wants to be your coach",
@@ -665,6 +672,16 @@
       "submit": "Send report",
       "sentTitle": "Report sent",
       "sentBody": "Thanks — we'll look into it. If you'd rather not wait, you can disconnect this coach now."
+    },
+    "codeSheet": {
+      "title": "Invite code"
+    },
+    "empty": {
+      "title": "Train with a coach",
+      "subtitle": "A coach builds your program, sees the workouts and measurements you record, and tells you what to change.",
+      "cta": "Enter invite code",
+      "noCode": "I don't have a code",
+      "noCodeHint": "Your coach issues the code — ask them to send you an invite."
     }
   },
   "close": "Close",

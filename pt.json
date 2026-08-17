@@ -611,7 +611,14 @@
     "contact": "Escrever a {{handle}}",
     "visibility": {
       "title": "O que o teu treinador vê",
-      "body": "Treinos, exercícios e medições que registas a partir do momento da ligação — nada do que veio antes."
+      "body": "Treinos, exercícios e medições que registas a partir do momento da ligação — nada do que veio antes.",
+      "titleMany": "O que os teus treinadores veem",
+      "workouts": "Os treinos que registas",
+      "measurements": "Medidas corporais",
+      "programs": "Os programas que ele criou para ti",
+      "programsMany": "Os programas que eles criaram para ti",
+      "since": "Visível a partir de {{date}}",
+      "sinceCoach": "{{name}} — a partir de {{date}}"
     },
     "confirm": {
       "subtitle": "quer ser o teu treinador",
@@ -654,6 +661,16 @@
       "submit": "Enviar denúncia",
       "sentTitle": "Denúncia enviada",
       "sentBody": "Obrigado — vamos analisar. Se preferires não esperar, podes desligar este treinador agora."
+    },
+    "codeSheet": {
+      "title": "Código de convite"
+    },
+    "empty": {
+      "title": "Treina com um treinador",
+      "subtitle": "Um treinador cria o teu programa, vê os treinos e as medidas que registas e diz-te o que mudar.",
+      "cta": "Introduzir código de convite",
+      "noCode": "Não tenho código",
+      "noCodeHint": "O código é emitido pelo teu treinador — pede-lhe um convite."
     }
   },
   "close": "Fechar",

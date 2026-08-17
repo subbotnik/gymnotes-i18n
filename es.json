@@ -611,7 +611,14 @@
     "contact": "Escribir a {{handle}}",
     "visibility": {
       "title": "Lo que ve tu entrenador",
-      "body": "Los entrenamientos, ejercicios y medidas que registres desde el momento de la vinculación: nada de antes."
+      "body": "Los entrenamientos, ejercicios y medidas que registres desde el momento de la vinculación: nada de antes.",
+      "titleMany": "Lo que ven tus entrenadores",
+      "workouts": "Los entrenamientos que registras",
+      "measurements": "Medidas corporales",
+      "programs": "Los programas que te ha creado",
+      "programsMany": "Los programas que te han creado",
+      "since": "Visible desde el {{date}}",
+      "sinceCoach": "{{name}} — desde el {{date}}"
     },
     "confirm": {
       "subtitle": "quiere ser tu entrenador",
@@ -654,6 +661,16 @@
       "submit": "Enviar denuncia",
       "sentTitle": "Denuncia enviada",
       "sentBody": "Gracias, lo revisaremos. Si prefieres no esperar, puedes desconectar a este entrenador ahora."
+    },
+    "codeSheet": {
+      "title": "Código de invitación"
+    },
+    "empty": {
+      "title": "Entrena con un entrenador",
+      "subtitle": "Un entrenador crea tu programa, ve los entrenamientos y las medidas que registras y te dice qué cambiar.",
+      "cta": "Introducir código de invitación",
+      "noCode": "No tengo código",
+      "noCodeHint": "El código lo emite tu entrenador: pídele que te envíe una invitación."
     }
   },
   "close": "Cerrar",

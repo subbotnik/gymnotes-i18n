@@ -611,7 +611,14 @@
     "contact": "Écrire à {{handle}}",
     "visibility": {
       "title": "Ce que voit votre coach",
-      "body": "Les entraînements, exercices et mesures que vous enregistrez à partir de la mise en relation — rien de ce qui précède."
+      "body": "Les entraînements, exercices et mesures que vous enregistrez à partir de la mise en relation — rien de ce qui précède.",
+      "titleMany": "Ce que voient tes coachs",
+      "workouts": "Les séances que tu enregistres",
+      "measurements": "Mensurations",
+      "programs": "Les programmes qu'il t'a créés",
+      "programsMany": "Les programmes qu'ils t'ont créés",
+      "since": "Visible à partir du {{date}}",
+      "sinceCoach": "{{name}} — à partir du {{date}}"
     },
     "confirm": {
       "subtitle": "souhaite devenir votre coach",
@@ -654,6 +661,16 @@
       "submit": "Envoyer le signalement",
       "sentTitle": "Signalement envoyé",
       "sentBody": "Merci, nous allons examiner cela. Si vous préférez ne pas attendre, vous pouvez déconnecter ce coach maintenant."
+    },
+    "codeSheet": {
+      "title": "Code d'invitation"
+    },
+    "empty": {
+      "title": "Entraîne-toi avec un coach",
+      "subtitle": "Un coach crée ton programme, voit les séances et les mesures que tu enregistres et te dit quoi changer.",
+      "cta": "Saisir le code d'invitation",
+      "noCode": "Je n'ai pas de code",
+      "noCodeHint": "C'est ton coach qui délivre le code — demande-lui une invitation."
     }
   },
   "close": "Fermer",

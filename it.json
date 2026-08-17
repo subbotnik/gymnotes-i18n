@@ -611,7 +611,14 @@
     "contact": "Scrivi a {{handle}}",
     "visibility": {
       "title": "Cosa vede il tuo coach",
-      "body": "Allenamenti, esercizi e misurazioni che registri dal momento del collegamento — niente di precedente."
+      "body": "Allenamenti, esercizi e misurazioni che registri dal momento del collegamento — niente di precedente.",
+      "titleMany": "Cosa vedono i tuoi coach",
+      "workouts": "Gli allenamenti che registri",
+      "measurements": "Misure corporee",
+      "programs": "I programmi che ha creato per te",
+      "programsMany": "I programmi che hanno creato per te",
+      "since": "Visibile dal {{date}}",
+      "sinceCoach": "{{name}} — dal {{date}}"
     },
     "confirm": {
       "subtitle": "vuole diventare il tuo coach",
@@ -654,6 +661,16 @@
       "submit": "Invia segnalazione",
       "sentTitle": "Segnalazione inviata",
       "sentBody": "Grazie, la esamineremo. Se preferisci non aspettare, puoi scollegare questo coach ora."
+    },
+    "codeSheet": {
+      "title": "Codice di invito"
+    },
+    "empty": {
+      "title": "Allenati con un coach",
+      "subtitle": "Un coach crea il tuo programma, vede gli allenamenti e le misure che registri e ti dice cosa cambiare.",
+      "cta": "Inserisci il codice di invito",
+      "noCode": "Non ho un codice",
+      "noCodeHint": "Il codice lo fornisce il tuo coach: chiedigli un invito."
     }
   },
   "close": "Chiudi",

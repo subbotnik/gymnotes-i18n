@@ -611,7 +611,14 @@
     "contact": "{{handle}} schreiben",
     "visibility": {
       "title": "Was dein Coach sieht",
-      "body": "Workouts, Übungen und Messwerte, die du ab dem Zeitpunkt der Verknüpfung aufzeichnest — nichts von davor."
+      "body": "Workouts, Übungen und Messwerte, die du ab dem Zeitpunkt der Verknüpfung aufzeichnest — nichts von davor.",
+      "titleMany": "Was deine Coaches sehen",
+      "workouts": "Workouts, die du aufzeichnest",
+      "measurements": "Körpermaße",
+      "programs": "Programme, die er dir erstellt hat",
+      "programsMany": "Programme, die sie dir erstellt haben",
+      "since": "Sichtbar ab {{date}}",
+      "sinceCoach": "{{name}} — ab {{date}}"
     },
     "confirm": {
       "subtitle": "möchte dein Coach werden",
@@ -654,6 +661,16 @@
       "submit": "Meldung senden",
       "sentTitle": "Meldung gesendet",
       "sentBody": "Danke — wir schauen uns das an. Wenn du nicht warten willst, kannst du den Coach jetzt trennen."
+    },
+    "codeSheet": {
+      "title": "Einladungscode"
+    },
+    "empty": {
+      "title": "Trainiere mit einem Coach",
+      "subtitle": "Ein Coach erstellt dein Programm, sieht deine Workouts und Messwerte und sagt dir, was du ändern solltest.",
+      "cta": "Einladungscode eingeben",
+      "noCode": "Ich habe keinen Code",
+      "noCodeHint": "Den Code gibt dein Coach aus — bitte ihn um eine Einladung."
     }
   },
   "close": "Schließen",
