@@ -689,7 +689,7 @@
   "today": "Сьогодні",
   "training.hero.meta": "{{exercises}} вправ · із твоєї програми",
   "training.hero.start": "Почати «{{name}}»",
-  "training.hero.startEmpty": "Почати порожнє тренування",
+  "training.hero.startEmpty": "Почати нове тренування",
   "training.quick.subtitle": "Записуй підходи по ходу — або продиктуй голосом.",
   "training.resume.title": "Продовжити — голосова чернетка",
   "training.resume.meta": "{{exercises}} вправи · {{sets}} підходів · збережено {{time}}",
