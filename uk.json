@@ -976,5 +976,20 @@
   "cancel.deflect.offer.missing.body": "Напиши нам — і ми скажемо, чи це вже в планах.",
   "cancel.deflect.step3.title": "Скасувати підписку",
   "cancel.deflect.step3.body": "Pro лишиться до кінця вже оплаченого періоду.",
-  "cancel.deflect.storeNote": "Ми не можемо скасувати за тебе — зміну треба зробити в акаунті магазину. Ми тебе туди відведемо."
+  "cancel.deflect.storeNote": "Ми не можемо скасувати за тебе — зміну треба зробити в акаунті магазину. Ми тебе туди відведемо.",
+  "add": "Додати",
+  "explore.routines.count_0": "{{count}} готова програма",
+  "explore.routines.count_1": "{{count}} готові програми",
+  "explore.routines.count_2": "{{count}} готових програм",
+  "explore.routines.search": "Пошук програм",
+  "sets.count_0": "{{count}} сет",
+  "sets.count_1": "{{count}} сети",
+  "sets.count_2": "{{count}} сетів",
+  "reps.count_0": "{{count}} повтор",
+  "reps.count_1": "{{count}} повтори",
+  "reps.count_2": "{{count}} повторів",
+  "exercises.count_0": "{{count}} вправа",
+  "exercises.count_1": "{{count}} вправи",
+  "exercises.count_2": "{{count}} вправ",
+  "explore.routines.notFound": "Нічого не знайшли за запитом «{{query}}»"
 }

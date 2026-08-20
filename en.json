@@ -957,5 +957,16 @@
   "pro.trial.banner_plural": "Your trial ends in {{count}} days",
   "cancel.deflect.offer.unused.title_plural": "You've logged {{count}} workouts",
   "cancel.deflect.offer.unused.body_plural": "You've finished {{count}} workouts with Pro. Turn on reminders and we'll nudge you on your usual training days.",
-  "pro.paywall.winback.body_plural": "You logged {{count}} workouts with Pro. They're all still here."
+  "pro.paywall.winback.body_plural": "You logged {{count}} workouts with Pro. They're all still here.",
+  "add": "Add",
+  "explore.routines.count": "{{count}} ready-made program",
+  "explore.routines.count_plural": "{{count}} ready-made programs",
+  "explore.routines.search": "Search programs",
+  "exercises.count": "{{count}} exercise",
+  "exercises.count_plural": "{{count}} exercises",
+  "sets.count": "{{count}} set",
+  "sets.count_plural": "{{count}} sets",
+  "reps.count": "{{count}} rep",
+  "reps.count_plural": "{{count}} reps",
+  "explore.routines.notFound": "Nothing matches “{{query}}”"
 }
