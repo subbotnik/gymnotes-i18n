@@ -969,5 +969,13 @@
   "sets.count_plural": "{{count}} sets",
   "reps.count": "{{count}} rep",
   "reps.count_plural": "{{count}} reps",
-  "explore.routines.notFound": "Nothing matches “{{query}}”"
+  "explore.routines.notFound": "Nothing matches “{{query}}”",
+  "workout.save.inProgress": "Saving your workout",
+  "workout.save.inProgress.detail": "This usually takes a moment.",
+  "workout.save.slow": "Still saving",
+  "workout.save.slow.detail": "Your connection looks slow. Keep the app open — we are still trying.",
+  "workout.save.failed": "Couldn't save your workout",
+  "workout.save.failed.reassurance": "Nothing is lost — your workout is still on this device. Check your connection and try again.",
+  "workout.save.retry": "Try again",
+  "workout.save.locked.a11y": "Locked while your workout is saving"
 }

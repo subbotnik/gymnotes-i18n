@@ -992,5 +992,13 @@
   "exercises.count_0": "{{count}} вправа",
   "exercises.count_1": "{{count}} вправи",
   "exercises.count_2": "{{count}} вправ",
-  "explore.routines.notFound": "Нічого не знайшли за запитом «{{query}}»"
+  "explore.routines.notFound": "Нічого не знайшли за запитом «{{query}}»",
+  "workout.save.inProgress": "Зберігаємо тренування",
+  "workout.save.inProgress.detail": "Зазвичай це займає мить.",
+  "workout.save.slow": "Ще зберігаємо",
+  "workout.save.slow.detail": "Зв'язок повільний. Не закривайте застосунок — ми продовжуємо.",
+  "workout.save.failed": "Не вдалося зберегти тренування",
+  "workout.save.failed.reassurance": "Нічого не втрачено — тренування лишилось на пристрої. Перевірте зв'язок і спробуйте ще.",
+  "workout.save.retry": "Спробувати ще",
+  "workout.save.locked.a11y": "Заблоковано, поки зберігається тренування"
 }
