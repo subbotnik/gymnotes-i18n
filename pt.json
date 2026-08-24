@@ -676,6 +676,9 @@
     "codeSheet": {
       "title": "Código de convite"
     },
+    "link": {
+      "checking": "A verificar o código de convite…"
+    },
     "empty": {
       "title": "Treina com um treinador",
       "subtitle": "Um treinador cria o teu programa, vê os treinos e as medidas que registas e diz-te o que mudar.",

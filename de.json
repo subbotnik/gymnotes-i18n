@@ -676,6 +676,9 @@
     "codeSheet": {
       "title": "Einladungscode"
     },
+    "link": {
+      "checking": "Einladungscode wird geprüft…"
+    },
     "empty": {
       "title": "Trainiere mit einem Coach",
       "subtitle": "Ein Coach erstellt dein Programm, sieht deine Workouts und Messwerte und sagt dir, was du ändern solltest.",

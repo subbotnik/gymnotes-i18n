@@ -687,6 +687,9 @@
     "codeSheet": {
       "title": "Invite code"
     },
+    "link": {
+      "checking": "Checking the invite code…"
+    },
     "empty": {
       "title": "Train with a coach",
       "subtitle": "A coach builds your program, sees the workouts and measurements you record, and tells you what to change.",

@@ -676,6 +676,9 @@
     "codeSheet": {
       "title": "Kutsukoodi"
     },
+    "link": {
+      "checking": "Tarkistetaan kutsukoodia…"
+    },
     "empty": {
       "title": "Treenaa valmentajan kanssa",
       "subtitle": "Valmentaja laatii ohjelmasi, näkee kirjaamasi treenit ja mitat ja kertoo, mitä kannattaa muuttaa.",

@@ -676,6 +676,9 @@
     "codeSheet": {
       "title": "Codice di invito"
     },
+    "link": {
+      "checking": "Verifica del codice di invito…"
+    },
     "empty": {
       "title": "Allenati con un coach",
       "subtitle": "Un coach crea il tuo programma, vede gli allenamenti e le misure che registri e ti dice cosa cambiare.",
