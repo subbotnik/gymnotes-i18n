@@ -1004,5 +1004,6 @@
   "settings.voice.subtitle": "“80 for eight” — and the set is logged",
   "settings.statistics.subtitle": "Volume per muscle, 1RM, exercise history",
   "initial.load.failed.title": "Couldn't load your data",
-  "initial.load.failed.body": "Check your connection and try again."
+  "initial.load.failed.body": "Check your connection and try again.",
+  "included.with.pro": "Included with Pro"
 }

@@ -1027,5 +1027,10 @@
   "settings.voice.subtitle": "«80 на вісім» — і підхід записаний",
   "settings.statistics.subtitle": "Обʼєм за мʼязами, 1RM, історія записів",
   "initial.load.failed.title": "Не вдалося завантажити дані",
-  "initial.load.failed.body": "Перевірте зʼєднання і спробуйте ще раз."
+  "initial.load.failed.body": "Перевірте зʼєднання і спробуйте ще раз.",
+  "included.with.pro": "Входить у Pro",
+  "exercises.count": "{{count}} вправа",
+  "reps.count": "{{count}} повтор",
+  "sets.count": "{{count}} сет",
+  "explore.routines.count": "{{count}} готова програма"
 }
