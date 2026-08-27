@@ -644,12 +644,15 @@
     },
     "confirm": {
       "subtitle": "wants to be your coach",
-      "willSeeTitle": "They will be able to see:",
-      "willSeeWorkouts": "workouts you record from now on",
-      "willSeeExercises": "your exercises and working weights",
-      "willSeeMeasurements": "your body measurements",
+      "willSeeTitle": "{{name}} will see",
+      "willSeeWorkouts": "Your workouts and their dates",
+      "willSeeExercises": "Exercises, sets, weight and reps",
+      "willSeeMeasurements": "Body measurements you record",
       "historyHidden": "Everything from before this moment stays hidden.",
-      "accept": "Link with coach"
+      "accept": "Link {{name}}",
+      "back": "Back to the code",
+      "step": "Step {{current}} of {{total}}",
+      "privacyNote": "Only what you record from today is visible. Workouts before {{date}} stay private. You can revoke access at any time."
     },
     "unlink": {
       "action": "Disconnect coach",
@@ -663,7 +666,26 @@
       "expired": "This code has expired. Ask your coach for a new one.",
       "coachInactive": "This coach's account is inactive.",
       "alreadyLinked": "You're already linked with this coach.",
-      "generic": "Something went wrong. Please try again."
+      "generic": "Something went wrong. Please try again.",
+      "notFoundTitle": "That code doesn't exist",
+      "notFoundHint": "Check the characters — 5 and S, 8 and B are easy to mix up.",
+      "notFoundAction": "Try again",
+      "alreadyUsedTitle": "This code has been used",
+      "alreadyUsedHint": "Every code works once. Ask your coach to send a new one.",
+      "alreadyUsedAction": "Enter another code",
+      "expiredTitle": "This code has expired",
+      "expiredHint": "It is no longer valid. Ask your coach to send a new one.",
+      "expiredAction": "Enter another code",
+      "coachInactiveTitle": "This coach is not taking clients",
+      "coachInactiveHint": "Their account is inactive. Get in touch with them directly.",
+      "coachInactiveAction": "Close",
+      "alreadyLinkedTitle": "You're already linked to this coach",
+      "alreadyLinkedHint": "Nothing to do — your coach already sees your workouts.",
+      "alreadyLinkedHintNamed": "Nothing to do — {{name}} already sees your workouts.",
+      "alreadyLinkedAction": "Go to coach",
+      "genericTitle": "Something went wrong",
+      "genericHint": "Try again in a minute.",
+      "genericAction": "Try again"
     },
     "planFrom": "Plan from {{name}}",
     "planFromUnknown": "Plan from your coach",
@@ -685,7 +707,20 @@
       "sentBody": "Thanks — we'll look into it. If you'd rather not wait, you can disconnect this coach now."
     },
     "codeSheet": {
-      "title": "Invite code"
+      "title": "Coach code",
+      "subtitle": "6 characters from the invite. Capitals and digits.",
+      "checkingTitle": "Checking the code…",
+      "hintAlphabet": "No I, L, O, 0 or 1 — codes never use them",
+      "hintRemaining": "{{count}} character to go",
+      "hintRemaining_plural": "{{count}} characters to go",
+      "hintReady": "Check the code, then tap \"Link coach\"",
+      "hintChecking": "This takes a few seconds",
+      "hintClipboardEmpty": "No code on the clipboard",
+      "paste": "Paste",
+      "clear": "Clear",
+      "submit": "Link coach",
+      "submitShort": "Link",
+      "checking": "Checking…"
     },
     "link": {
       "checking": "Checking the invite code…"
