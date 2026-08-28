@@ -638,7 +638,10 @@
       "willSeeExercises": "deine Übungen und Arbeitsgewichte",
       "willSeeMeasurements": "deine Körpermaße",
       "historyHidden": "Alles von vor diesem Moment bleibt verborgen.",
-      "accept": "Mit Coach verknüpfen"
+      "accept": "Mit Coach verknüpfen",
+      "step": "Schritt {{current}} von {{total}}",
+      "back": "Zurück zum Code",
+      "privacyNote": "Sichtbar ist nur, was du ab heute aufzeichnest. Workouts vor dem {{date}} bleiben privat. Du kannst den Zugriff jederzeit widerrufen."
     },
     "unlink": {
       "action": "Coach trennen",
@@ -652,7 +655,26 @@
       "expired": "Dieser Code ist abgelaufen. Bitte deinen Coach um einen neuen.",
       "coachInactive": "Das Konto dieses Coaches ist inaktiv.",
       "alreadyLinked": "Du bist mit diesem Coach bereits verknüpft.",
-      "generic": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+      "generic": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+      "notFoundTitle": "Diesen Code gibt es nicht",
+      "notFoundHint": "Prüfe die Zeichen — 5 und S, 8 und B verwechselt man leicht.",
+      "alreadyUsedTitle": "Dieser Code wurde schon benutzt",
+      "alreadyUsedHint": "Jeder Code funktioniert nur einmal. Bitte deinen Coach um einen neuen.",
+      "alreadyUsedAction": "Anderen Code eingeben",
+      "expiredTitle": "Dieser Code ist abgelaufen",
+      "expiredHint": "Er ist nicht mehr gültig. Bitte deinen Coach um einen neuen.",
+      "expiredAction": "Anderen Code eingeben",
+      "coachInactiveTitle": "Dieser Coach nimmt keine Klienten an",
+      "coachInactiveHint": "Das Konto ist inaktiv. Wende dich direkt an deinen Coach.",
+      "alreadyLinkedTitle": "Du bist mit diesem Coach schon verbunden",
+      "alreadyLinkedHint": "Nichts zu tun — dein Coach sieht deine Workouts bereits.",
+      "alreadyLinkedHintNamed": "Nichts zu tun — {{name}} sieht deine Workouts bereits.",
+      "alreadyLinkedAction": "Zum Coach",
+      "genericTitle": "Etwas ist schiefgelaufen",
+      "genericHint": "Versuch es in einer Minute noch einmal.",
+      "coachInactiveAction": "Schließen",
+      "genericAction": "Erneut versuchen",
+      "notFoundAction": "Erneut versuchen"
     },
     "planFrom": "Plan von {{name}}",
     "planFromUnknown": "Plan von deinem Coach",
@@ -674,7 +696,20 @@
       "sentBody": "Danke — wir schauen uns das an. Wenn du nicht warten willst, kannst du den Coach jetzt trennen."
     },
     "codeSheet": {
-      "title": "Einladungscode"
+      "title": "Einladungscode",
+      "checking": "Wird geprüft…",
+      "checkingTitle": "Code wird geprüft…",
+      "subtitle": "6 Zeichen aus der Einladung. Großbuchstaben und Ziffern.",
+      "hintAlphabet": "Kein I, L, O, 0 oder 1 — die kommen in Codes nie vor",
+      "hintChecking": "Das dauert ein paar Sekunden",
+      "hintClipboardEmpty": "Kein Code in der Zwischenablage",
+      "hintReady": "Code prüfen und auf „Coach verbinden“ tippen",
+      "hintRemaining": "Noch {{count}} Zeichen",
+      "hintRemaining_plural": "Noch {{count}} Zeichen",
+      "paste": "Einfügen",
+      "submit": "Coach verbinden",
+      "submitShort": "Verbinden",
+      "clear": "Löschen"
     },
     "link": {
       "checking": "Einladungscode wird geprüft…"

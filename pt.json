@@ -638,7 +638,10 @@
       "willSeeExercises": "os teus exercícios e cargas de trabalho",
       "willSeeMeasurements": "as tuas medições corporais",
       "historyHidden": "Tudo o que aconteceu antes deste momento fica escondido.",
-      "accept": "Ligar ao treinador"
+      "accept": "Ligar ao treinador",
+      "step": "Passo {{current}} de {{total}}",
+      "back": "Voltar ao código",
+      "privacyNote": "Só é visível o que registares a partir de hoje. Os treinos anteriores a {{date}} continuam privados. Podes retirar o acesso quando quiseres."
     },
     "unlink": {
       "action": "Desligar treinador",
@@ -652,7 +655,26 @@
       "expired": "Este código expirou. Pede um novo ao teu treinador.",
       "coachInactive": "A conta deste treinador está inativa.",
       "alreadyLinked": "Já estás ligado a este treinador.",
-      "generic": "Algo correu mal. Tenta novamente."
+      "generic": "Algo correu mal. Tenta novamente.",
+      "notFoundTitle": "Esse código não existe",
+      "notFoundHint": "Verifica os caracteres — o 5 e o S, o 8 e o B confundem-se facilmente.",
+      "alreadyUsedTitle": "Este código já foi usado",
+      "alreadyUsedHint": "Cada código só funciona uma vez. Pede ao teu treinador que te envie um novo.",
+      "alreadyUsedAction": "Introduzir outro código",
+      "expiredTitle": "Este código expirou",
+      "expiredHint": "Já não é válido. Pede ao teu treinador que te envie um novo.",
+      "expiredAction": "Introduzir outro código",
+      "coachInactiveTitle": "Este treinador não aceita clientes",
+      "coachInactiveHint": "A conta está inativa. Contacta diretamente o teu treinador.",
+      "alreadyLinkedTitle": "Já estás associado a este treinador",
+      "alreadyLinkedHint": "Não é preciso fazer nada — o teu treinador já vê os teus treinos.",
+      "alreadyLinkedHintNamed": "Não é preciso fazer nada — {{name}} já vê os teus treinos.",
+      "alreadyLinkedAction": "Ir para o treinador",
+      "genericTitle": "Algo correu mal",
+      "genericHint": "Tenta novamente daqui a um minuto.",
+      "coachInactiveAction": "Fechar",
+      "genericAction": "Tentar novamente",
+      "notFoundAction": "Tentar novamente"
     },
     "planFrom": "Plano de {{name}}",
     "planFromUnknown": "Plano do teu treinador",
@@ -674,7 +696,20 @@
       "sentBody": "Obrigado — vamos analisar. Se preferires não esperar, podes desligar este treinador agora."
     },
     "codeSheet": {
-      "title": "Código de convite"
+      "title": "Código de convite",
+      "checking": "A verificar…",
+      "checkingTitle": "A verificar o código…",
+      "subtitle": "6 caracteres do convite. Maiúsculas e algarismos.",
+      "hintAlphabet": "Sem I, L, O, 0 nem 1 — nunca aparecem nos códigos",
+      "hintChecking": "Demora alguns segundos",
+      "hintClipboardEmpty": "Não há nenhum código na área de transferência",
+      "hintReady": "Confirma o código e toca em «Associar treinador»",
+      "hintRemaining": "Falta {{count}} carácter",
+      "hintRemaining_plural": "Faltam {{count}} caracteres",
+      "paste": "Colar",
+      "submit": "Associar treinador",
+      "submitShort": "Associar",
+      "clear": "Limpar"
     },
     "link": {
       "checking": "A verificar o código de convite…"

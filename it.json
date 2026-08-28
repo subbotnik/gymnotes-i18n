@@ -638,7 +638,10 @@
       "willSeeExercises": "i tuoi esercizi e i carichi di lavoro",
       "willSeeMeasurements": "le tue misurazioni corporee",
       "historyHidden": "Tutto ciò che precede questo momento resta nascosto.",
-      "accept": "Collega il coach"
+      "accept": "Collega il coach",
+      "step": "Passaggio {{current}} di {{total}}",
+      "back": "Torna al codice",
+      "privacyNote": "Si vede solo ciò che registri da oggi. Gli allenamenti precedenti al {{date}} restano privati. Puoi revocare l'accesso quando vuoi."
     },
     "unlink": {
       "action": "Scollega il coach",
@@ -652,7 +655,26 @@
       "expired": "Questo codice è scaduto. Chiedine uno nuovo al tuo coach.",
       "coachInactive": "L'account di questo coach non è attivo.",
       "alreadyLinked": "Sei già collegato a questo coach.",
-      "generic": "Qualcosa è andato storto. Riprova."
+      "generic": "Qualcosa è andato storto. Riprova.",
+      "notFoundTitle": "Questo codice non esiste",
+      "notFoundHint": "Controlla i caratteri: 5 e S, 8 e B si confondono facilmente.",
+      "alreadyUsedTitle": "Questo codice è già stato usato",
+      "alreadyUsedHint": "Ogni codice funziona una volta sola. Chiedi al tuo coach di inviartene uno nuovo.",
+      "alreadyUsedAction": "Inserisci un altro codice",
+      "expiredTitle": "Questo codice è scaduto",
+      "expiredHint": "Non è più valido. Chiedi al tuo coach di inviartene uno nuovo.",
+      "expiredAction": "Inserisci un altro codice",
+      "coachInactiveTitle": "Questo coach non accetta clienti",
+      "coachInactiveHint": "Il suo account è inattivo. Contatta direttamente il tuo coach.",
+      "alreadyLinkedTitle": "Sei già collegato a questo coach",
+      "alreadyLinkedHint": "Non serve fare nulla: il tuo coach vede già i tuoi allenamenti.",
+      "alreadyLinkedHintNamed": "Non serve fare nulla: {{name}} vede già i tuoi allenamenti.",
+      "alreadyLinkedAction": "Vai al coach",
+      "genericTitle": "Qualcosa è andato storto",
+      "genericHint": "Riprova tra un minuto.",
+      "coachInactiveAction": "Chiudi",
+      "genericAction": "Riprova",
+      "notFoundAction": "Riprova"
     },
     "planFrom": "Programma di {{name}}",
     "planFromUnknown": "Programma del tuo coach",
@@ -674,7 +696,20 @@
       "sentBody": "Grazie, la esamineremo. Se preferisci non aspettare, puoi scollegare questo coach ora."
     },
     "codeSheet": {
-      "title": "Codice di invito"
+      "title": "Codice di invito",
+      "checking": "Verifica…",
+      "checkingTitle": "Verifica del codice…",
+      "subtitle": "6 caratteri presi dall'invito. Maiuscole e numeri.",
+      "hintAlphabet": "Niente I, L, O, 0 o 1: non compaiono mai nei codici",
+      "hintChecking": "Ci vogliono pochi secondi",
+      "hintClipboardEmpty": "Nessun codice negli appunti",
+      "hintReady": "Controlla il codice, poi tocca «Collega il coach»",
+      "hintRemaining": "Manca {{count}} carattere",
+      "hintRemaining_plural": "Mancano {{count}} caratteri",
+      "paste": "Incolla",
+      "submit": "Collega il coach",
+      "submitShort": "Collega",
+      "clear": "Cancella"
     },
     "link": {
       "checking": "Verifica del codice di invito…"

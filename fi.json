@@ -638,7 +638,10 @@
       "willSeeExercises": "liikkeesi ja työpainosi",
       "willSeeMeasurements": "kehonmittauksesi",
       "historyHidden": "Kaikki ennen tätä hetkeä pysyy piilossa.",
-      "accept": "Yhdistä valmentajaan"
+      "accept": "Yhdistä valmentajaan",
+      "step": "Vaihe {{current}}/{{total}}",
+      "back": "Takaisin koodiin",
+      "privacyNote": "Näkyvissä on vain se, minkä kirjaat tästä päivästä alkaen. Ennen {{date}} tehdyt treenit pysyvät yksityisinä. Voit perua käyttöoikeuden milloin tahansa."
     },
     "unlink": {
       "action": "Katkaise yhteys valmentajaan",
@@ -652,7 +655,26 @@
       "expired": "Tämä koodi on vanhentunut. Pyydä valmentajaltasi uusi.",
       "coachInactive": "Tämän valmentajan tili ei ole aktiivinen.",
       "alreadyLinked": "Olet jo yhdistetty tähän valmentajaan.",
-      "generic": "Jokin meni pieleen. Yritä uudelleen."
+      "generic": "Jokin meni pieleen. Yritä uudelleen.",
+      "notFoundTitle": "Tätä koodia ei ole",
+      "notFoundHint": "Tarkista merkit — 5 ja S sekä 8 ja B menevät helposti sekaisin.",
+      "alreadyUsedTitle": "Tämä koodi on jo käytetty",
+      "alreadyUsedHint": "Jokainen koodi toimii vain kerran. Pyydä valmentajaltasi uusi.",
+      "alreadyUsedAction": "Syötä toinen koodi",
+      "expiredTitle": "Tämä koodi on vanhentunut",
+      "expiredHint": "Se ei ole enää voimassa. Pyydä valmentajaltasi uusi.",
+      "expiredAction": "Syötä toinen koodi",
+      "coachInactiveTitle": "Tämä valmentaja ei ota asiakkaita",
+      "coachInactiveHint": "Tili ei ole aktiivinen. Ota yhteyttä valmentajaan suoraan.",
+      "alreadyLinkedTitle": "Olet jo yhdistetty tähän valmentajaan",
+      "alreadyLinkedHint": "Ei toimenpiteitä — valmentajasi näkee jo treenisi.",
+      "alreadyLinkedHintNamed": "Ei toimenpiteitä — {{name}} näkee jo treenisi.",
+      "alreadyLinkedAction": "Siirry valmentajaan",
+      "genericTitle": "Jokin meni pieleen",
+      "genericHint": "Yritä uudelleen hetken kuluttua.",
+      "coachInactiveAction": "Sulje",
+      "genericAction": "Yritä uudelleen",
+      "notFoundAction": "Yritä uudelleen"
     },
     "planFrom": "Ohjelma valmentajalta {{name}}",
     "planFromUnknown": "Ohjelma valmentajaltasi",
@@ -674,7 +696,20 @@
       "sentBody": "Kiitos — selvitämme asian. Jos et halua odottaa, voit katkaista yhteyden valmentajaan nyt."
     },
     "codeSheet": {
-      "title": "Kutsukoodi"
+      "title": "Kutsukoodi",
+      "checking": "Tarkistetaan…",
+      "checkingTitle": "Tarkistetaan koodia…",
+      "subtitle": "6 merkkiä kutsusta. Isot kirjaimet ja numerot.",
+      "hintAlphabet": "Ei merkkejä I, L, O, 0 tai 1 — koodeissa niitä ei käytetä",
+      "hintChecking": "Tämä kestää muutaman sekunnin",
+      "hintClipboardEmpty": "Leikepöydällä ei ole koodia",
+      "hintReady": "Tarkista koodi ja napauta ”Yhdistä valmentaja”",
+      "hintRemaining": "Vielä {{count}} merkki",
+      "hintRemaining_plural": "Vielä {{count}} merkkiä",
+      "paste": "Liitä",
+      "submit": "Yhdistä valmentaja",
+      "submitShort": "Yhdistä",
+      "clear": "Tyhjennä"
     },
     "link": {
       "checking": "Tarkistetaan kutsukoodia…"

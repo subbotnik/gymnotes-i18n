@@ -638,7 +638,10 @@
       "willSeeExercises": "tus ejercicios y pesos de trabajo",
       "willSeeMeasurements": "tus medidas corporales",
       "historyHidden": "Todo lo anterior a este momento permanece oculto.",
-      "accept": "Vincular con el entrenador"
+      "accept": "Vincular con el entrenador",
+      "step": "Paso {{current}} de {{total}}",
+      "back": "Volver al código",
+      "privacyNote": "Solo se ve lo que registres a partir de hoy. Los entrenamientos anteriores al {{date}} siguen siendo privados. Puedes revocar el acceso cuando quieras."
     },
     "unlink": {
       "action": "Desconectar entrenador",
@@ -652,7 +655,26 @@
       "expired": "Este código ha caducado. Pídele uno nuevo a tu entrenador.",
       "coachInactive": "La cuenta de este entrenador está inactiva.",
       "alreadyLinked": "Ya estás vinculado con este entrenador.",
-      "generic": "Algo ha salido mal. Inténtalo de nuevo."
+      "generic": "Algo ha salido mal. Inténtalo de nuevo.",
+      "notFoundTitle": "Ese código no existe",
+      "notFoundHint": "Revisa los caracteres: el 5 y la S, el 8 y la B se confunden con facilidad.",
+      "alreadyUsedTitle": "Este código ya se ha usado",
+      "alreadyUsedHint": "Cada código funciona una sola vez. Pídele a tu entrenador que te envíe otro.",
+      "alreadyUsedAction": "Introducir otro código",
+      "expiredTitle": "Este código ha caducado",
+      "expiredHint": "Ya no es válido. Pídele a tu entrenador que te envíe otro.",
+      "expiredAction": "Introducir otro código",
+      "coachInactiveTitle": "Este entrenador no acepta clientes",
+      "coachInactiveHint": "Su cuenta está inactiva. Contacta directamente con tu entrenador.",
+      "alreadyLinkedTitle": "Ya estás conectado con este entrenador",
+      "alreadyLinkedHint": "No hay nada que hacer: tu entrenador ya ve tus entrenamientos.",
+      "alreadyLinkedHintNamed": "No hay nada que hacer: {{name}} ya ve tus entrenamientos.",
+      "alreadyLinkedAction": "Ir al entrenador",
+      "genericTitle": "Algo ha salido mal",
+      "genericHint": "Inténtalo de nuevo en un minuto.",
+      "coachInactiveAction": "Cerrar",
+      "genericAction": "Intentar de nuevo",
+      "notFoundAction": "Intentar de nuevo"
     },
     "planFrom": "Plan de {{name}}",
     "planFromUnknown": "Plan de tu entrenador",
@@ -674,7 +696,20 @@
       "sentBody": "Gracias, lo revisaremos. Si prefieres no esperar, puedes desconectar a este entrenador ahora."
     },
     "codeSheet": {
-      "title": "Código de invitación"
+      "title": "Código de invitación",
+      "checking": "Comprobando…",
+      "checkingTitle": "Comprobando el código…",
+      "subtitle": "6 caracteres de la invitación. Mayúsculas y números.",
+      "hintAlphabet": "Sin I, L, O, 0 ni 1: nunca aparecen en los códigos",
+      "hintChecking": "Tardará unos segundos",
+      "hintClipboardEmpty": "No hay ningún código en el portapapeles",
+      "hintReady": "Comprueba el código y pulsa «Conectar entrenador»",
+      "hintRemaining": "Queda {{count}} carácter",
+      "hintRemaining_plural": "Quedan {{count}} caracteres",
+      "paste": "Pegar",
+      "submit": "Conectar entrenador",
+      "submitShort": "Conectar",
+      "clear": "Limpiar"
     },
     "link": {
       "checking": "Comprobando el código de invitación…"
