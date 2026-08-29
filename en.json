@@ -657,7 +657,7 @@
     "unlink": {
       "action": "Disconnect coach",
       "title": "Disconnect coach?",
-      "message": "{{name}} will stop seeing your new workouts and measurements. What they've already seen stays with them. Programs they sent you remain in your library.",
+      "message": "{{name}} will stop seeing your new workouts and measurements. What they have already seen stays with them. Programs they sent you remain in your library.",
       "confirm": "Disconnect"
     },
     "error": {
@@ -692,7 +692,7 @@
     "myRoutines": "My routines",
     "report": {
       "action": "Report this coach",
-      "title": "Report coach",
+      "title": "Report this coach",
       "subtitle": "Tell us what's wrong with {{name}}. We read every report.",
       "reason": {
         "inappropriate": "Inappropriate or abusive behaviour",
@@ -700,11 +700,58 @@
         "not_my_coach": "I don't know this person",
         "other": "Something else"
       },
-      "detailsPlaceholder": "Anything you'd like to add (optional)",
-      "disclaimer": "Your coach isn't told about this. Reporting doesn't disconnect them — you can do that separately.",
+      "detailsPlaceholder": "What happened, and when? It helps us sort this out faster.",
       "submit": "Send report",
       "sentTitle": "Report sent",
-      "sentBody": "Thanks — we'll look into it. If you'd rather not wait, you can disconnect this coach now."
+      "sentBody": "We'll read it and look into it.",
+      "actionNamed": "Report {{name}}",
+      "reasonsTitle": "What happened?",
+      "reasonsTitleFollowUp": "Has something else happened?",
+      "assurance": {
+        "title": "{{name}} won't be told about this",
+        "body": "Your coach stays connected — reporting disconnects nothing. You can disconnect separately, and we'll offer that once this is sent."
+      },
+      "detailsLabel": "Details",
+      "detailsOptional": "Optional",
+      "detailsCounter": "{{current}} / {{max}}",
+      "detailsPlaceholderNotMyCoach": "Where did you get the code? It helps us find the source.",
+      "detailsPlaceholderFollowUp": "What has changed since {{date}}?",
+      "submitRetry": "Send again",
+      "sending": "Sending…",
+      "error": {
+        "title": "Report not sent",
+        "network": "We couldn't reach the server. Your text and the reason you picked are still here — check your connection and press “Send again”.",
+        "server": "The server couldn't accept the report. Your text and the reason you picked are still here — try sending again in a minute.",
+        "notYourCoach": "This connection isn't yours any more, so there is nothing to report on. Close this and refresh the Coach screen.",
+        "duplicateTitle": "This reason was already sent",
+        "duplicate": "You have already sent a report for this reason. Pick another one — or close this, we are reading the first one."
+      },
+      "sentBodyNoNotice": "Your coach received no notification about this.",
+      "unlinkPrompt": {
+        "title": "Don't want to wait?",
+        "body": "Disconnecting is a separate action and it takes effect immediately. Your coach will stop seeing new workouts and measurements."
+      },
+      "notMyCoach": {
+        "formTitle": "Then it's better to remove their access",
+        "formBody": "If you don't know this person, they can still see your workouts and measurements. We'll send the report and offer to disconnect them straight away.",
+        "sentTitle": "Report sent. Remove their access?",
+        "sentBody": "We'll look into how this person got your code. But while they are connected, they can see your workouts.",
+        "consequenceAccess": "They stop seeing new workouts and measurements immediately",
+        "consequenceKeep": "Your programs and history stay with you",
+        "unlink": "Disconnect this person",
+        "keep": "Leave them connected"
+      },
+      "followUp": {
+        "title": "Add to your report",
+        "subtitle": "You already reported {{name}} on {{date}}. That report is being handled.",
+        "filedNote": "We have already received this report and we are reading it. There is no need to send the same reason again — it wouldn't add anything.",
+        "filedBadge": "Sent {{date}}"
+      },
+      "allFiled": {
+        "title": "You have sent every report you can",
+        "body": "This coach has been reported for every reason there is. There is nothing left to add — we are reading all of them.",
+        "support": "Write to support"
+      }
     },
     "codeSheet": {
       "title": "Coach code",
@@ -731,6 +778,11 @@
       "cta": "Enter invite code",
       "noCode": "I don't have a code",
       "noCodeHint": "Your coach issues the code — ask them to send you an invite."
+    },
+    "unlinked": {
+      "title": "Recently disconnected",
+      "disconnectedAt": "Disconnected {{date}}",
+      "expiry": "This disappears {{days}} days after disconnecting. You can report a coach after disconnecting them too."
     }
   },
   "close": "Close",
@@ -815,10 +867,6 @@
   "add.exercises.count": "Add {{count}} exercise",
   "add.exercises.count_plural": "Add {{count}} exercises",
   "coach.title": "Coach",
-  "coach.unlink.title": "Disconnect coach?",
-  "coach.unlink.message": "You'll stop sharing your training data with {{name}}.",
-  "coach.unlink.confirm": "Disconnect",
-  "coach.unlink.action": "Disconnect coach",
   "coach.error.alreadyUsed": "This code has already been used.",
   "coach.error.expired": "This code has expired.",
   "coach.error.coachInactive": "This coach isn't accepting clients right now.",
@@ -829,7 +877,6 @@
   "coach.contact": "Contact {{handle}}",
   "coach.visibility.title": "What your coach can see",
   "coach.visibility.body": "Your coach can see the workouts, exercises, and measurements you log from now on.",
-  "coach.report.action": "Report an issue",
   "coach.addAnotherHint": "Got a code from another coach? Enter it below.",
   "coach.emptyHint": "Enter the code your coach gave you to connect.",
   "coach.codePlaceholder": "Enter code",
@@ -841,17 +888,6 @@
   "coach.confirm.willSeeMeasurements": "Your body measurements",
   "coach.confirm.historyHidden": "Your history from before today stays private.",
   "coach.confirm.accept": "Connect",
-  "coach.report.sentTitle": "Report sent",
-  "coach.report.sentBody": "Thanks for letting us know. Our team will take a look.",
-  "coach.report.title": "Report a coach",
-  "coach.report.subtitle": "Tell us what's wrong with {{name}}.",
-  "coach.report.reason.inappropriate": "Inappropriate behavior",
-  "coach.report.reason.spam": "Spam",
-  "coach.report.reason.not_my_coach": "This isn't my coach",
-  "coach.report.reason.other": "Other",
-  "coach.report.detailsPlaceholder": "Add details (optional)",
-  "coach.report.disclaimer": "Reporting doesn't disconnect your coach. If you also want to stop sharing data with them, disconnect separately.",
-  "coach.report.submit": "Send report",
   "coach.planFrom": "Program by {{name}}",
   "coach.planFromUnknown": "Program from your coach",
   "coach.myRoutines": "My routines",
