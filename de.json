@@ -1079,5 +1079,83 @@
   "workout.save.summary": "{{sets}} Sätze · {{exercises}} Übungen",
   "workout.save.title": "Speichern",
   "workout.stat.minutes": "Minuten",
-  "included.with.pro": "In Pro enthalten"
+  "included.with.pro": "In Pro enthalten",
+  "deleteAccount": {
+    "lede": "Das ist endgültig. Das Konto lässt sich danach nicht wiederherstellen — weder von uns noch von dir.",
+    "ledeShort": "Das ist endgültig. Das Konto ist nicht wiederherstellbar.",
+    "counting": "Wir zählen, was gelöscht wird …",
+    "countingFailed": "Deine Zahlen konnten nicht geladen werden.",
+    "disappears": {
+      "title": "Für immer weg",
+      "workouts": "abgeschlossenes Workout",
+      "workouts_plural": "abgeschlossene Workouts",
+      "sets": "erfasster Satz",
+      "sets_plural": "erfasste Sätze",
+      "exercisesOnly": "eigene Übung",
+      "exercisesOnly_plural": "eigene Übungen",
+      "programsOnly": "Programm",
+      "programsOnly_plural": "Programme",
+      "exercisesAndPrograms": "eigene Übung und {{programs}}",
+      "exercisesAndPrograms_plural": "eigene Übungen und {{programs}}",
+      "programsInline": "{{count}} Programm",
+      "programsInline_plural": "{{count}} Programme",
+      "measurementsSince": "Körpermaße — seit {{date}}.",
+      "firstWorkout": "Ältestes Workout — {{date}}."
+    },
+    "remains": {
+      "title": "Bleibt bestehen",
+      "coachBody": "{{name}} verliert den Zugriff im Moment der Löschung. Was dein Coach aber bereits gesehen hat — deine Workouts, deine Maße, dein Programm — bleibt bei ihm, und wir können es nicht zurückholen.",
+      "coachBodyMany": "Deine Coaches verlieren den Zugriff im Moment der Löschung. Was sie aber bereits gesehen haben — deine Workouts, deine Maße, deine Programme — bleibt bei ihnen, und wir können es nicht zurückholen.",
+      "disconnectFirst": "Zuerst den Coach trennen"
+    },
+    "store": {
+      "appStore": "der App Store",
+      "playStore": "Google Play",
+      "other": "der Store"
+    },
+    "subscription": {
+      "title": "Dein Abo wird nicht gekündigt",
+      "body": "GymNotes Pro liegt bei {{store}}, nicht bei uns. Das Löschen deines Kontos stoppt es nicht — {{price}} werden am {{date}} und bei jeder weiteren Verlängerung abgebucht, bis du es dort kündigst.",
+      "bodyNoPrice": "GymNotes Pro liegt bei {{store}}, nicht bei uns. Das Löschen deines Kontos stoppt es nicht — ab dem {{date}} wird weiter abgebucht, bis du es dort kündigst.",
+      "bodyGeneric": "GymNotes Pro liegt bei {{store}}, nicht bei uns. Das Löschen deines Kontos stoppt es nicht — es wird weiter abgebucht, bis du es dort kündigst.",
+      "cancelFirst": "Zuerst das Abo kündigen"
+    },
+    "count": {
+      "workouts": "{{value}} Workout",
+      "workouts_plural": "{{value}} Workouts",
+      "sets": "{{value}} Satz",
+      "sets_plural": "{{value}} Sätze"
+    },
+    "confirm": {
+      "title": "Konto löschen?",
+      "message": "{{workouts}} und {{sets}} werden endgültig gelöscht. Das kann niemand rückgängig machen."
+    },
+    "progress": {
+      "title": "Konto wird gelöscht",
+      "body": "Das dauert ein paar Sekunden. Schließe die App nicht.",
+      "noCancel": "Abbrechen ist nicht mehr möglich."
+    },
+    "done": {
+      "title": "Konto gelöscht",
+      "summary": "{{workouts}} und {{sets}} gelöscht. Wir erinnern uns nicht an dich.",
+      "summaryGeneric": "Alles, was du aufgezeichnet hast, ist gelöscht. Wir erinnern uns nicht an dich.",
+      "subscriptionTitle": "Dein GymNotes-Pro-Abo läuft weiter",
+      "subscriptionBody": "Wir halten es nicht und können es nicht kündigen — das tut {{store}}. Kündige es dort, sonst werden am {{date}} {{price}} abgebucht.",
+      "subscriptionBodyNoPrice": "Wir halten es nicht und können es nicht kündigen — das tut {{store}}. Kündige es dort, sonst wird ab dem {{date}} weiter abgebucht.",
+      "subscriptionBodyGeneric": "Wir halten es nicht und können es nicht kündigen — das tut {{store}}. Kündige es dort, sonst wird weiter abgebucht.",
+      "openSubscriptionSettings": "Abo-Einstellungen öffnen"
+    },
+    "error": {
+      "title": "Löschen fehlgeschlagen",
+      "offline": "Die Verbindung ist während der Anfrage abgebrochen.",
+      "generic": "Auf unserer Seite ist etwas schiefgelaufen.",
+      "stateTitle": "Dein Konto ist unverändert da",
+      "intact": "Das Löschen läuft als eine einzige Operation: Entweder es geht vollständig durch oder es beginnt gar nicht. Eine teilweise Löschung gibt es nicht — alle {{workouts}} und {{sets}} sind unversehrt.",
+      "intactGeneric": "Das Löschen läuft als eine einzige Operation: Entweder es geht vollständig durch oder es beginnt gar nicht. Eine teilweise Löschung gibt es nicht — es wurde nichts angerührt.",
+      "retry": "Erneut versuchen",
+      "contactSupport": "Support kontaktieren",
+      "dismiss": "Nicht löschen",
+      "supportSubject": "Löschung des GymNotes-Kontos"
+    }
+  }
 }

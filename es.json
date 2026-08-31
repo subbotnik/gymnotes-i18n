@@ -1079,5 +1079,83 @@
   "workout.save.summary": "{{sets}} series · {{exercises}} ejercicios",
   "workout.save.title": "Guardando",
   "workout.stat.minutes": "minutos",
-  "included.with.pro": "Incluido con Pro"
+  "included.with.pro": "Incluido con Pro",
+  "deleteAccount": {
+    "lede": "Esto es definitivo. Después no hay forma de restaurar la cuenta: ni nosotros ni tú.",
+    "ledeShort": "Esto es definitivo. La cuenta no se puede restaurar.",
+    "counting": "Contando lo que se va a borrar…",
+    "countingFailed": "No pudimos cargar tus totales.",
+    "disappears": {
+      "title": "Desaparece para siempre",
+      "workouts": "entrenamiento completado",
+      "workouts_plural": "entrenamientos completados",
+      "sets": "serie registrada",
+      "sets_plural": "series registradas",
+      "exercisesOnly": "ejercicio propio",
+      "exercisesOnly_plural": "ejercicios propios",
+      "programsOnly": "programa",
+      "programsOnly_plural": "programas",
+      "exercisesAndPrograms": "ejercicio propio y {{programs}}",
+      "exercisesAndPrograms_plural": "ejercicios propios y {{programs}}",
+      "programsInline": "{{count}} programa",
+      "programsInline_plural": "{{count}} programas",
+      "measurementsSince": "Medidas corporales — desde el {{date}}.",
+      "firstWorkout": "Entrenamiento más antiguo — {{date}}."
+    },
+    "remains": {
+      "title": "No desaparece",
+      "coachBody": "{{name}} pierde el acceso en el momento en que borres la cuenta. Pero lo que ya ha visto —tus entrenamientos, tus medidas, tu programa— se queda con esa persona, y no podemos recuperarlo.",
+      "coachBodyMany": "Tus entrenadores pierden el acceso en el momento en que borres la cuenta. Pero lo que ya han visto —tus entrenamientos, tus medidas, tus programas— se queda con ellos, y no podemos recuperarlo.",
+      "disconnectFirst": "Desconectar primero al entrenador"
+    },
+    "store": {
+      "appStore": "la App Store",
+      "playStore": "Google Play",
+      "other": "la tienda"
+    },
+    "subscription": {
+      "title": "Tu suscripción no se cancela",
+      "body": "GymNotes Pro lo gestiona {{store}}, no nosotros. Borrar la cuenta no la detiene: se te cobrarán {{price}} el {{date}} y en cada renovación posterior, hasta que la canceles allí.",
+      "bodyNoPrice": "GymNotes Pro lo gestiona {{store}}, no nosotros. Borrar la cuenta no la detiene: se te seguirá cobrando desde el {{date}} hasta que la canceles allí.",
+      "bodyGeneric": "GymNotes Pro lo gestiona {{store}}, no nosotros. Borrar la cuenta no la detiene: se te seguirá cobrando hasta que la canceles allí.",
+      "cancelFirst": "Cancelar primero la suscripción"
+    },
+    "count": {
+      "workouts": "{{value}} entrenamiento",
+      "workouts_plural": "{{value}} entrenamientos",
+      "sets": "{{value}} serie",
+      "sets_plural": "{{value}} series"
+    },
+    "confirm": {
+      "title": "¿Borrar la cuenta?",
+      "message": "{{workouts}} y {{sets}} se borrarán para siempre. Nadie podrá deshacerlo."
+    },
+    "progress": {
+      "title": "Borrando tu cuenta",
+      "body": "Tarda unos segundos. No cierres la app.",
+      "noCancel": "Ya no se puede cancelar."
+    },
+    "done": {
+      "title": "Cuenta borrada",
+      "summary": "{{workouts}} y {{sets}} borrados. No te recordamos.",
+      "summaryGeneric": "Todo lo que registraste se ha borrado. No te recordamos.",
+      "subscriptionTitle": "Tu suscripción a GymNotes Pro sigue activa",
+      "subscriptionBody": "No la gestionamos nosotros y no podemos cancelarla: la gestiona {{store}}. Cancélala allí, o se te cobrarán {{price}} el {{date}}.",
+      "subscriptionBodyNoPrice": "No la gestionamos nosotros y no podemos cancelarla: la gestiona {{store}}. Cancélala allí, o se te seguirá cobrando desde el {{date}}.",
+      "subscriptionBodyGeneric": "No la gestionamos nosotros y no podemos cancelarla: la gestiona {{store}}. Cancélala allí, o se te seguirá cobrando.",
+      "openSubscriptionSettings": "Abrir ajustes de suscripción"
+    },
+    "error": {
+      "title": "No se pudo borrar",
+      "offline": "La conexión se cortó durante la solicitud.",
+      "generic": "Algo falló por nuestra parte.",
+      "stateTitle": "Tu cuenta sigue ahí",
+      "intact": "El borrado ocurre como una sola operación: o se completa entero o no empieza. No existe el borrado parcial: los {{workouts}} y {{sets}} están intactos.",
+      "intactGeneric": "El borrado ocurre como una sola operación: o se completa entero o no empieza. No existe el borrado parcial: no se ha tocado nada.",
+      "retry": "Intentar de nuevo",
+      "contactSupport": "Escribir a soporte",
+      "dismiss": "No borrar",
+      "supportSubject": "Eliminación de la cuenta de GymNotes"
+    }
+  }
 }

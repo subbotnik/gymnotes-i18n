@@ -1079,5 +1079,83 @@
   "settings.statistics.subtitle": "Volume per muscle, 1RM, exercise history",
   "initial.load.failed.title": "Couldn't load your data",
   "initial.load.failed.body": "Check your connection and try again.",
-  "included.with.pro": "Included with Pro"
+  "included.with.pro": "Included with Pro",
+  "deleteAccount": {
+    "lede": "This is final. There is no way to restore the account afterwards — not for us, not for you.",
+    "ledeShort": "This is final. The account cannot be restored.",
+    "counting": "Counting what will be deleted…",
+    "countingFailed": "Couldn't load your totals.",
+    "disappears": {
+      "title": "Gone for good",
+      "workouts": "completed workout",
+      "workouts_plural": "completed workouts",
+      "sets": "set recorded",
+      "sets_plural": "sets recorded",
+      "exercisesOnly": "custom exercise",
+      "exercisesOnly_plural": "custom exercises",
+      "programsOnly": "program",
+      "programsOnly_plural": "programs",
+      "exercisesAndPrograms": "custom exercise and {{programs}}",
+      "exercisesAndPrograms_plural": "custom exercises and {{programs}}",
+      "programsInline": "{{count}} program",
+      "programsInline_plural": "{{count}} programs",
+      "measurementsSince": "Body measurements — since {{date}}.",
+      "firstWorkout": "Earliest workout — {{date}}."
+    },
+    "remains": {
+      "title": "Won't disappear",
+      "coachBody": "{{name}} loses access the moment you delete. But what they have already seen — your workouts, your measurements, your program — stays with them, and we cannot take it back.",
+      "coachBodyMany": "Your coaches lose access the moment you delete. But what they have already seen — your workouts, your measurements, your programs — stays with them, and we cannot take it back.",
+      "disconnectFirst": "Disconnect the coach first"
+    },
+    "store": {
+      "appStore": "the App Store",
+      "playStore": "Google Play",
+      "other": "the store"
+    },
+    "subscription": {
+      "title": "Your subscription won't be cancelled",
+      "body": "GymNotes Pro is held by {{store}}, not by us. Deleting your account does not stop it — {{price}} will be charged on {{date}} and at every renewal after that, until you cancel it there.",
+      "bodyNoPrice": "GymNotes Pro is held by {{store}}, not by us. Deleting your account does not stop it — you will keep being charged from {{date}} on, until you cancel it there.",
+      "bodyGeneric": "GymNotes Pro is held by {{store}}, not by us. Deleting your account does not stop it — you will keep being charged until you cancel it there.",
+      "cancelFirst": "Cancel the subscription first"
+    },
+    "count": {
+      "workouts": "{{value}} workout",
+      "workouts_plural": "{{value}} workouts",
+      "sets": "{{value}} set",
+      "sets_plural": "{{value}} sets"
+    },
+    "confirm": {
+      "title": "Delete account?",
+      "message": "{{workouts}} and {{sets}} will be deleted for good. Nobody can undo this."
+    },
+    "progress": {
+      "title": "Deleting your account",
+      "body": "This takes a few seconds. Don't close the app.",
+      "noCancel": "It can no longer be cancelled."
+    },
+    "done": {
+      "title": "Account deleted",
+      "summary": "{{workouts}} and {{sets}} erased. We don't remember you.",
+      "summaryGeneric": "Everything you recorded has been erased. We don't remember you.",
+      "subscriptionTitle": "Your GymNotes Pro subscription is still active",
+      "subscriptionBody": "We don't hold it and we can't cancel it — {{store}} does. Cancel it there, or {{price}} will be charged on {{date}}.",
+      "subscriptionBodyNoPrice": "We don't hold it and we can't cancel it — {{store}} does. Cancel it there, or you will keep being charged from {{date}} on.",
+      "subscriptionBodyGeneric": "We don't hold it and we can't cancel it — {{store}} does. Cancel it there, or you will keep being charged.",
+      "openSubscriptionSettings": "Open subscription settings"
+    },
+    "error": {
+      "title": "Couldn't delete",
+      "offline": "The connection dropped during the request.",
+      "generic": "Something went wrong on our side.",
+      "stateTitle": "Your account is still there",
+      "intact": "Deletion happens as one operation: either it goes through completely or it does not start. There is no such thing as a partial deletion — all {{workouts}} and {{sets}} are intact.",
+      "intactGeneric": "Deletion happens as one operation: either it goes through completely or it does not start. There is no such thing as a partial deletion — nothing has been touched.",
+      "retry": "Try again",
+      "contactSupport": "Contact support",
+      "dismiss": "Don't delete",
+      "supportSubject": "GymNotes account deletion"
+    }
+  }
 }

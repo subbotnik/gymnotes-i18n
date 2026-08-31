@@ -1079,5 +1079,83 @@
   "workout.save.summary": "{{sets}} séries · {{exercises}} exercícios",
   "workout.save.title": "A guardar",
   "workout.stat.minutes": "minutos",
-  "included.with.pro": "Incluído no Pro"
+  "included.with.pro": "Incluído no Pro",
+  "deleteAccount": {
+    "lede": "Isto é definitivo. Depois não há como restaurar a conta — nem nós, nem você.",
+    "ledeShort": "Isto é definitivo. A conta não pode ser restaurada.",
+    "counting": "Contando o que será apagado…",
+    "countingFailed": "Não foi possível carregar os seus totais.",
+    "disappears": {
+      "title": "Some para sempre",
+      "workouts": "treino concluído",
+      "workouts_plural": "treinos concluídos",
+      "sets": "série registrada",
+      "sets_plural": "séries registradas",
+      "exercisesOnly": "exercício próprio",
+      "exercisesOnly_plural": "exercícios próprios",
+      "programsOnly": "programa",
+      "programsOnly_plural": "programas",
+      "exercisesAndPrograms": "exercício próprio e {{programs}}",
+      "exercisesAndPrograms_plural": "exercícios próprios e {{programs}}",
+      "programsInline": "{{count}} programa",
+      "programsInline_plural": "{{count}} programas",
+      "measurementsSince": "Medidas corporais — desde {{date}}.",
+      "firstWorkout": "Treino mais antigo — {{date}}."
+    },
+    "remains": {
+      "title": "Não some",
+      "coachBody": "{{name}} perde o acesso no momento em que você apagar a conta. Mas o que o treinador já viu — seus treinos, suas medidas, seu programa — fica com ele, e não podemos trazer isso de volta.",
+      "coachBodyMany": "Seus treinadores perdem o acesso no momento em que você apagar a conta. Mas o que já viram — seus treinos, suas medidas, seus programas — fica com eles, e não podemos trazer isso de volta.",
+      "disconnectFirst": "Desconectar o treinador primeiro"
+    },
+    "store": {
+      "appStore": "a App Store",
+      "playStore": "o Google Play",
+      "other": "a loja"
+    },
+    "subscription": {
+      "title": "Sua assinatura não será cancelada",
+      "body": "O GymNotes Pro fica com {{store}}, não conosco. Apagar a conta não interrompe a assinatura — {{price}} serão cobrados em {{date}} e a cada renovação seguinte, até você cancelar por lá.",
+      "bodyNoPrice": "O GymNotes Pro fica com {{store}}, não conosco. Apagar a conta não interrompe a assinatura — as cobranças continuam a partir de {{date}}, até você cancelar por lá.",
+      "bodyGeneric": "O GymNotes Pro fica com {{store}}, não conosco. Apagar a conta não interrompe a assinatura — as cobranças continuam até você cancelar por lá.",
+      "cancelFirst": "Cancelar a assinatura primeiro"
+    },
+    "count": {
+      "workouts": "{{value}} treino",
+      "workouts_plural": "{{value}} treinos",
+      "sets": "{{value}} série",
+      "sets_plural": "{{value}} séries"
+    },
+    "confirm": {
+      "title": "Apagar a conta?",
+      "message": "{{workouts}} e {{sets}} serão apagados para sempre. Ninguém poderá desfazer isso."
+    },
+    "progress": {
+      "title": "Apagando sua conta",
+      "body": "Leva alguns segundos. Não feche o aplicativo.",
+      "noCancel": "Já não é possível cancelar."
+    },
+    "done": {
+      "title": "Conta apagada",
+      "summary": "{{workouts}} e {{sets}} apagados. Não lembramos de você.",
+      "summaryGeneric": "Tudo o que você registrou foi apagado. Não lembramos de você.",
+      "subscriptionTitle": "Sua assinatura do GymNotes Pro continua ativa",
+      "subscriptionBody": "Ela não fica conosco e não podemos cancelá-la — quem a controla é {{store}}. Cancele por lá, ou {{price}} serão cobrados em {{date}}.",
+      "subscriptionBodyNoPrice": "Ela não fica conosco e não podemos cancelá-la — quem a controla é {{store}}. Cancele por lá, ou as cobranças continuam a partir de {{date}}.",
+      "subscriptionBodyGeneric": "Ela não fica conosco e não podemos cancelá-la — quem a controla é {{store}}. Cancele por lá, ou as cobranças continuam.",
+      "openSubscriptionSettings": "Abrir configurações de assinatura"
+    },
+    "error": {
+      "title": "Não foi possível apagar",
+      "offline": "A conexão caiu durante a solicitação.",
+      "generic": "Algo deu errado do nosso lado.",
+      "stateTitle": "Sua conta continua aí",
+      "intact": "A exclusão acontece como uma única operação: ou é concluída por inteiro ou nem começa. Exclusão parcial não existe — todos os {{workouts}} e {{sets}} estão intactos.",
+      "intactGeneric": "A exclusão acontece como uma única operação: ou é concluída por inteiro ou nem começa. Exclusão parcial não existe — nada foi tocado.",
+      "retry": "Tentar de novo",
+      "contactSupport": "Falar com o suporte",
+      "dismiss": "Não apagar",
+      "supportSubject": "Exclusão da conta GymNotes"
+    }
+  }
 }

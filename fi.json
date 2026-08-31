@@ -1079,5 +1079,83 @@
   "workout.save.summary": "{{sets}} sarjaa · {{exercises}} liikettä",
   "workout.save.title": "Tallennetaan",
   "workout.stat.minutes": "minuuttia",
-  "included.with.pro": "Sisältyy Proon"
+  "included.with.pro": "Sisältyy Proon",
+  "deleteAccount": {
+    "lede": "Tämä on lopullista. Tiliä ei voi palauttaa jälkeenpäin — emme me eikä sinä.",
+    "ledeShort": "Tämä on lopullista. Tiliä ei voi palauttaa.",
+    "counting": "Lasketaan, mitä poistetaan…",
+    "countingFailed": "Lukujasi ei saatu ladattua.",
+    "disappears": {
+      "title": "Katoaa lopullisesti",
+      "workouts": "tehty treeni",
+      "workouts_plural": "tehtyä treeniä",
+      "sets": "kirjattu sarja",
+      "sets_plural": "kirjattua sarjaa",
+      "exercisesOnly": "oma liike",
+      "exercisesOnly_plural": "omaa liikettä",
+      "programsOnly": "ohjelma",
+      "programsOnly_plural": "ohjelmaa",
+      "exercisesAndPrograms": "oma liike ja {{programs}}",
+      "exercisesAndPrograms_plural": "omaa liikettä ja {{programs}}",
+      "programsInline": "{{count}} ohjelma",
+      "programsInline_plural": "{{count}} ohjelmaa",
+      "measurementsSince": "Kehon mitat — alkaen {{date}}.",
+      "firstWorkout": "Vanhin treeni — {{date}}."
+    },
+    "remains": {
+      "title": "Ei katoa",
+      "coachBody": "{{name}} menettää pääsyn samalla hetkellä kun poistat tilin. Mutta se, minkä valmentaja on jo nähnyt — treenisi, mittasi, ohjelmasi — jää hänelle, emmekä voi ottaa sitä pois.",
+      "coachBodyMany": "Valmentajasi menettävät pääsyn samalla hetkellä kun poistat tilin. Mutta se, minkä he ovat jo nähneet — treenisi, mittasi, ohjelmasi — jää heille, emmekä voi ottaa sitä pois.",
+      "disconnectFirst": "Katkaise ensin valmentajayhteys"
+    },
+    "store": {
+      "appStore": "App Store",
+      "playStore": "Google Play",
+      "other": "kauppa"
+    },
+    "subscription": {
+      "title": "Tilaustasi ei peruuteta",
+      "body": "GymNotes Prota hallinnoi {{store}}, emme me. Tilin poistaminen ei pysäytä sitä — {{price}} veloitetaan {{date}} ja jokaisen uusinnan yhteydessä, kunnes peruutat sen siellä.",
+      "bodyNoPrice": "GymNotes Prota hallinnoi {{store}}, emme me. Tilin poistaminen ei pysäytä sitä — veloitukset jatkuvat {{date}} alkaen, kunnes peruutat sen siellä.",
+      "bodyGeneric": "GymNotes Prota hallinnoi {{store}}, emme me. Tilin poistaminen ei pysäytä sitä — veloitukset jatkuvat, kunnes peruutat sen siellä.",
+      "cancelFirst": "Peruuta ensin tilaus"
+    },
+    "count": {
+      "workouts": "{{value}} treeni",
+      "workouts_plural": "{{value}} treeniä",
+      "sets": "{{value}} sarja",
+      "sets_plural": "{{value}} sarjaa"
+    },
+    "confirm": {
+      "title": "Poistetaanko tili?",
+      "message": "{{workouts}} ja {{sets}} poistetaan lopullisesti. Kukaan ei voi peruuttaa tätä."
+    },
+    "progress": {
+      "title": "Poistetaan tiliäsi",
+      "body": "Tämä kestää muutaman sekunnin. Älä sulje sovellusta.",
+      "noCancel": "Peruuttaminen ei ole enää mahdollista."
+    },
+    "done": {
+      "title": "Tili poistettu",
+      "summary": "{{workouts}} ja {{sets}} pyyhitty. Emme muista sinua.",
+      "summaryGeneric": "Kaikki kirjaamasi on pyyhitty. Emme muista sinua.",
+      "subscriptionTitle": "GymNotes Pro -tilauksesi on yhä voimassa",
+      "subscriptionBody": "Emme hallinnoi sitä emmekä voi peruuttaa sitä — sitä hallinnoi {{store}}. Peruuta se siellä, tai {{price}} veloitetaan {{date}}.",
+      "subscriptionBodyNoPrice": "Emme hallinnoi sitä emmekä voi peruuttaa sitä — sitä hallinnoi {{store}}. Peruuta se siellä, tai veloitukset jatkuvat {{date}} alkaen.",
+      "subscriptionBodyGeneric": "Emme hallinnoi sitä emmekä voi peruuttaa sitä — sitä hallinnoi {{store}}. Peruuta se siellä, tai veloitukset jatkuvat.",
+      "openSubscriptionSettings": "Avaa tilausasetukset"
+    },
+    "error": {
+      "title": "Poistaminen epäonnistui",
+      "offline": "Yhteys katkesi pyynnön aikana.",
+      "generic": "Jokin meni pieleen meidän päässämme.",
+      "stateTitle": "Tilisi on tallella",
+      "intact": "Poisto tapahtuu yhtenä operaationa: joko se menee kokonaan läpi tai se ei ala lainkaan. Osittaista poistoa ei ole olemassa — kaikki {{workouts}} ja {{sets}} ovat tallella.",
+      "intactGeneric": "Poisto tapahtuu yhtenä operaationa: joko se menee kokonaan läpi tai se ei ala lainkaan. Osittaista poistoa ei ole olemassa — mihinkään ei ole koskettu.",
+      "retry": "Yritä uudelleen",
+      "contactSupport": "Ota yhteyttä tukeen",
+      "dismiss": "Älä poista",
+      "supportSubject": "GymNotes-tilin poisto"
+    }
+  }
 }

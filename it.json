@@ -1079,5 +1079,83 @@
   "workout.save.summary": "{{sets}} serie · {{exercises}} esercizi",
   "workout.save.title": "Salvataggio",
   "workout.stat.minutes": "minuti",
-  "included.with.pro": "Incluso con Pro"
+  "included.with.pro": "Incluso con Pro",
+  "deleteAccount": {
+    "lede": "È definitivo. Dopo non c'è modo di ripristinare l'account — né per noi, né per te.",
+    "ledeShort": "È definitivo. L'account non è ripristinabile.",
+    "counting": "Stiamo contando cosa verrà eliminato…",
+    "countingFailed": "Non siamo riusciti a caricare i tuoi totali.",
+    "disappears": {
+      "title": "Sparisce per sempre",
+      "workouts": "allenamento completato",
+      "workouts_plural": "allenamenti completati",
+      "sets": "serie registrata",
+      "sets_plural": "serie registrate",
+      "exercisesOnly": "esercizio personale",
+      "exercisesOnly_plural": "esercizi personali",
+      "programsOnly": "programma",
+      "programsOnly_plural": "programmi",
+      "exercisesAndPrograms": "esercizio personale e {{programs}}",
+      "exercisesAndPrograms_plural": "esercizi personali e {{programs}}",
+      "programsInline": "{{count}} programma",
+      "programsInline_plural": "{{count}} programmi",
+      "measurementsSince": "Misure corporee — dal {{date}}.",
+      "firstWorkout": "Allenamento più vecchio — {{date}}."
+    },
+    "remains": {
+      "title": "Non sparisce",
+      "coachBody": "{{name}} perde l'accesso nel momento in cui elimini l'account. Ma quello che il coach ha già visto — i tuoi allenamenti, le tue misure, il tuo programma — resta a lui, e non possiamo riprendercelo.",
+      "coachBodyMany": "I tuoi coach perdono l'accesso nel momento in cui elimini l'account. Ma quello che hanno già visto — i tuoi allenamenti, le tue misure, i tuoi programmi — resta a loro, e non possiamo riprendercelo.",
+      "disconnectFirst": "Prima scollega il coach"
+    },
+    "store": {
+      "appStore": "l'App Store",
+      "playStore": "Google Play",
+      "other": "il negozio"
+    },
+    "subscription": {
+      "title": "L'abbonamento non viene annullato",
+      "body": "GymNotes Pro è gestito da {{store}}, non da noi. Eliminare l'account non lo ferma: {{price}} verranno addebitati il {{date}} e a ogni rinnovo successivo, finché non lo annulli lì.",
+      "bodyNoPrice": "GymNotes Pro è gestito da {{store}}, non da noi. Eliminare l'account non lo ferma: gli addebiti continueranno dal {{date}}, finché non lo annulli lì.",
+      "bodyGeneric": "GymNotes Pro è gestito da {{store}}, non da noi. Eliminare l'account non lo ferma: gli addebiti continueranno finché non lo annulli lì.",
+      "cancelFirst": "Prima annulla l'abbonamento"
+    },
+    "count": {
+      "workouts": "{{value}} allenamento",
+      "workouts_plural": "{{value}} allenamenti",
+      "sets": "{{value}} serie",
+      "sets_plural": "{{value}} serie"
+    },
+    "confirm": {
+      "title": "Eliminare l'account?",
+      "message": "{{workouts}} e {{sets}} verranno eliminati per sempre. Nessuno potrà annullare questa azione."
+    },
+    "progress": {
+      "title": "Eliminazione dell'account",
+      "body": "Ci vogliono pochi secondi. Non chiudere l'app.",
+      "noCancel": "Non è più possibile annullare."
+    },
+    "done": {
+      "title": "Account eliminato",
+      "summary": "{{workouts}} e {{sets}} cancellati. Non ti ricordiamo.",
+      "summaryGeneric": "Tutto quello che hai registrato è stato cancellato. Non ti ricordiamo.",
+      "subscriptionTitle": "Il tuo abbonamento GymNotes Pro è ancora attivo",
+      "subscriptionBody": "Non lo gestiamo noi e non possiamo annullarlo: lo gestisce {{store}}. Annullalo lì, altrimenti il {{date}} verranno addebitati {{price}}.",
+      "subscriptionBodyNoPrice": "Non lo gestiamo noi e non possiamo annullarlo: lo gestisce {{store}}. Annullalo lì, altrimenti gli addebiti continueranno dal {{date}}.",
+      "subscriptionBodyGeneric": "Non lo gestiamo noi e non possiamo annullarlo: lo gestisce {{store}}. Annullalo lì, altrimenti gli addebiti continueranno.",
+      "openSubscriptionSettings": "Apri le impostazioni dell'abbonamento"
+    },
+    "error": {
+      "title": "Eliminazione non riuscita",
+      "offline": "La connessione si è interrotta durante la richiesta.",
+      "generic": "Qualcosa è andato storto dalla nostra parte.",
+      "stateTitle": "Il tuo account è ancora al suo posto",
+      "intact": "L'eliminazione avviene come una sola operazione: o va a buon fine per intero o non parte. L'eliminazione parziale non esiste — {{workouts}} e {{sets}} sono intatti.",
+      "intactGeneric": "L'eliminazione avviene come una sola operazione: o va a buon fine per intero o non parte. L'eliminazione parziale non esiste — non è stato toccato nulla.",
+      "retry": "Riprova",
+      "contactSupport": "Contatta il supporto",
+      "dismiss": "Non eliminare",
+      "supportSubject": "Eliminazione dell'account GymNotes"
+    }
+  }
 }

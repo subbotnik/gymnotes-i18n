@@ -1079,5 +1079,83 @@
   "workout.save.summary": "{{sets}} séries · {{exercises}} exercices",
   "workout.save.title": "Enregistrement",
   "workout.stat.minutes": "minutes",
-  "included.with.pro": "Inclus avec Pro"
+  "included.with.pro": "Inclus avec Pro",
+  "deleteAccount": {
+    "lede": "C'est définitif. Le compte ne pourra pas être restauré ensuite — ni par nous, ni par vous.",
+    "ledeShort": "C'est définitif. Le compte ne peut pas être restauré.",
+    "counting": "Calcul de ce qui va disparaître…",
+    "countingFailed": "Impossible de charger vos totaux.",
+    "disappears": {
+      "title": "Disparaît définitivement",
+      "workouts": "séance terminée",
+      "workouts_plural": "séances terminées",
+      "sets": "série enregistrée",
+      "sets_plural": "séries enregistrées",
+      "exercisesOnly": "exercice personnalisé",
+      "exercisesOnly_plural": "exercices personnalisés",
+      "programsOnly": "programme",
+      "programsOnly_plural": "programmes",
+      "exercisesAndPrograms": "exercice personnalisé et {{programs}}",
+      "exercisesAndPrograms_plural": "exercices personnalisés et {{programs}}",
+      "programsInline": "{{count}} programme",
+      "programsInline_plural": "{{count}} programmes",
+      "measurementsSince": "Mesures corporelles — depuis le {{date}}.",
+      "firstWorkout": "Séance la plus ancienne — {{date}}."
+    },
+    "remains": {
+      "title": "Ne disparaît pas",
+      "coachBody": "{{name}} perd l'accès au moment de la suppression. Mais ce que votre coach a déjà vu — vos séances, vos mesures, votre programme — reste chez lui, et nous ne pouvons pas le reprendre.",
+      "coachBodyMany": "Vos coachs perdent l'accès au moment de la suppression. Mais ce qu'ils ont déjà vu — vos séances, vos mesures, vos programmes — reste chez eux, et nous ne pouvons pas le reprendre.",
+      "disconnectFirst": "Déconnecter d'abord le coach"
+    },
+    "store": {
+      "appStore": "l'App Store",
+      "playStore": "Google Play",
+      "other": "la boutique"
+    },
+    "subscription": {
+      "title": "Votre abonnement ne sera pas résilié",
+      "body": "GymNotes Pro est géré par {{store}}, pas par nous. Supprimer votre compte ne l'arrête pas — {{price}} seront prélevés le {{date}} puis à chaque renouvellement, jusqu'à ce que vous le résiliiez là-bas.",
+      "bodyNoPrice": "GymNotes Pro est géré par {{store}}, pas par nous. Supprimer votre compte ne l'arrête pas — les prélèvements continueront à partir du {{date}}, jusqu'à ce que vous le résiliiez là-bas.",
+      "bodyGeneric": "GymNotes Pro est géré par {{store}}, pas par nous. Supprimer votre compte ne l'arrête pas — les prélèvements continueront jusqu'à ce que vous le résiliiez là-bas.",
+      "cancelFirst": "Résilier d'abord l'abonnement"
+    },
+    "count": {
+      "workouts": "{{value}} séance",
+      "workouts_plural": "{{value}} séances",
+      "sets": "{{value}} série",
+      "sets_plural": "{{value}} séries"
+    },
+    "confirm": {
+      "title": "Supprimer le compte ?",
+      "message": "{{workouts}} et {{sets}} seront supprimés définitivement. Personne ne pourra annuler cette action."
+    },
+    "progress": {
+      "title": "Suppression du compte",
+      "body": "Cela prend quelques secondes. Ne fermez pas l'application.",
+      "noCancel": "Il n'est plus possible d'annuler."
+    },
+    "done": {
+      "title": "Compte supprimé",
+      "summary": "{{workouts}} et {{sets}} effacés. Nous ne nous souvenons pas de vous.",
+      "summaryGeneric": "Tout ce que vous avez enregistré a été effacé. Nous ne nous souvenons pas de vous.",
+      "subscriptionTitle": "Votre abonnement GymNotes Pro est toujours actif",
+      "subscriptionBody": "Nous ne le gérons pas et ne pouvons pas le résilier — c'est {{store}} qui le gère. Résiliez-le là-bas, sinon {{price}} seront prélevés le {{date}}.",
+      "subscriptionBodyNoPrice": "Nous ne le gérons pas et ne pouvons pas le résilier — c'est {{store}} qui le gère. Résiliez-le là-bas, sinon les prélèvements continueront à partir du {{date}}.",
+      "subscriptionBodyGeneric": "Nous ne le gérons pas et ne pouvons pas le résilier — c'est {{store}} qui le gère. Résiliez-le là-bas, sinon les prélèvements continueront.",
+      "openSubscriptionSettings": "Ouvrir les réglages d'abonnement"
+    },
+    "error": {
+      "title": "Échec de la suppression",
+      "offline": "La connexion a été interrompue pendant la requête.",
+      "generic": "Quelque chose a échoué de notre côté.",
+      "stateTitle": "Votre compte est intact",
+      "intact": "La suppression est une opération unique : soit elle aboutit entièrement, soit elle ne démarre pas. Une suppression partielle n'existe pas — vos {{workouts}} et {{sets}} sont intacts.",
+      "intactGeneric": "La suppression est une opération unique : soit elle aboutit entièrement, soit elle ne démarre pas. Une suppression partielle n'existe pas — rien n'a été touché.",
+      "retry": "Réessayer",
+      "contactSupport": "Contacter le support",
+      "dismiss": "Ne pas supprimer",
+      "supportSubject": "Suppression du compte GymNotes"
+    }
+  }
 }
